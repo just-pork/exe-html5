@@ -1,0 +1,15 @@
+﻿<?xml version="0.5" encoding="utf-8"?>
+<TextureAtlas imagePath="Majin Boppers Back.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MajinBop2 instance 10000" x="0" y="0" width="598.5" height="437" frameX="0" frameY="0" frameWidth="600" frameHeight="437"/>
+	<SubTexture name="MajinBop2 instance 10001" x="0" y="0" width="598.5" height="437" frameX="0" frameY="0" frameWidth="600" frameHeight="437"/>
+	<SubTexture name="MajinBop2 instance 10002" x="598.5" y="0" width="600" height="437"/>
+	<SubTexture name="MajinBop2 instance 10003" x="598.5" y="0" width="600" height="437"/>
+	<SubTexture name="MajinBop2 instance 10004" x="1198.5" y="0" width="600" height="437"/>
+	<SubTexture name="MajinBop2 instance 10005" x="1198.5" y="0" width="600" height="437"/>
+	<SubTexture name="MajinBop2 instance 10006" x="0" y="437" width="599" height="437" frameX="0" frameY="0" frameWidth="600" frameHeight="437"/>
+	<SubTexture name="MajinBop2 instance 10007" x="0" y="437" width="599" height="437" frameX="0" frameY="0" frameWidth="600" frameHeight="437"/>
+	<SubTexture name="MajinBop2 instance 10008" x="0" y="0" width="598.5" height="437" frameX="0" frameY="0" frameWidth="600" frameHeight="437"/>
+	<SubTexture name="MajinBop2 instance 10009" x="0" y="0" width="598.5" height="437" frameX="0" frameY="0" frameWidth="600" frameHeight="437"/>
+</TextureAtlas>

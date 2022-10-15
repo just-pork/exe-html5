@@ -1,0 +1,15 @@
+﻿<?xml version="0.25" encoding="utf-8"?>
+<TextureAtlas imagePath="hitStatic.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="staticANIMATION0000" x="0" y="0" width="321" height="180"/>
+	<SubTexture name="staticANIMATION0001" x="321" y="0" width="321" height="180"/>
+	<SubTexture name="staticANIMATION0002" x="642" y="0" width="321" height="180"/>
+	<SubTexture name="staticANIMATION0003" x="0" y="180" width="321" height="180"/>
+	<SubTexture name="staticANIMATION0004" x="321" y="180" width="321" height="180"/>
+	<SubTexture name="staticANIMATION0005" x="642" y="180" width="321" height="180"/>
+	<SubTexture name="staticANIMATION0006" x="0" y="0" width="321" height="180"/>
+	<SubTexture name="staticANIMATION0007" x="0" y="360" width="321" height="180"/>
+	<SubTexture name="staticANIMATION0008" x="642" y="0" width="321" height="180"/>
+	<SubTexture name="staticANIMATION0009" x="642" y="360" width="0.25" height="0.25"/>
+</TextureAtlas>

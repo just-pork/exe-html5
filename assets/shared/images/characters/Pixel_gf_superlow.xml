@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Pixel_gf.png">
+<SubTexture name="Pixel gf miss0000" x="0" y="0" width="19.25" height="17.75" frameX="0" frameY="0" frameWidth="19.25" frameHeight="17.75" />
+<SubTexture name="Pixel gf miss0001" x="19.25" y="0" width="19.25" height="17.75" frameX="0" frameY="0" frameWidth="19.25" frameHeight="17.75" />
+<SubTexture name="Pixel gf miss0002" x="38.5" y="0" width="19.25" height="17.75" frameX="0" frameY="0" frameWidth="19.25" frameHeight="17.75" />
+<SubTexture name="Pixel gf miss0003" x="0" y="17.75" width="19.25" height="17.75" frameX="0" frameY="0" frameWidth="19.25" frameHeight="17.75" />
+<SubTexture name="Pixel gf dance0000" x="19.25" y="17.75" width="19.25" height="17.75" frameX="0" frameY="0" frameWidth="19.25" frameHeight="17.75" />
+<SubTexture name="Pixel gf dance0001" x="38.5" y="17.75" width="19.25" height="17.75" frameX="0" frameY="0" frameWidth="19.25" frameHeight="17.75" />
+<SubTexture name="Pixel gf dance0002" x="0" y="35.5" width="19.25" height="17.75" frameX="0" frameY="0" frameWidth="19.25" frameHeight="17.75" />
+<SubTexture name="Pixel gf dance0003" x="19.25" y="35.5" width="19.25" height="17.75" frameX="0" frameY="0" frameWidth="19.25" frameHeight="17.75" />
+<SubTexture name="Pixel gf dance0004" x="38.5" y="35.5" width="19.25" height="17.75" frameX="0" frameY="0" frameWidth="19.25" frameHeight="17.75" />
+<SubTexture name="Pixel gf dance0005" x="0" y="53.25" width="19.25" height="17.75" frameX="0" frameY="0" frameWidth="19.25" frameHeight="17.75" />
+<SubTexture name="Pixel gf dance0006" x="19.25" y="53.25" width="19.25" height="17.75" frameX="0" frameY="0" frameWidth="19.25" frameHeight="17.75" />
+<SubTexture name="Pixel gf dance0007" x="38.5" y="53.25" width="19.25" height="17.75" frameX="0" frameY="0" frameWidth="19.25" frameHeight="17.75" />
+</TextureAtlas>

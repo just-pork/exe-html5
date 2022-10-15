@@ -1,0 +1,44 @@
+﻿<?xml version="0.5" encoding="utf-8"?>
+<TextureAtlas imagePath="Luther.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="0" y="0" width="115.5" height="143.5"/>
+	<SubTexture name="idle0001" x="115.5" y="0" width="115.5" height="143.5"/>
+	<SubTexture name="idle0002" x="115.5" y="0" width="115.5" height="143.5"/>
+	<SubTexture name="idle0003" x="231" y="0" width="115.5" height="143.5"/>
+	<SubTexture name="idle0004" x="231" y="0" width="115.5" height="143.5"/>
+	<SubTexture name="idle0005" x="346.5" y="0" width="115.5" height="143.5"/>
+	<SubTexture name="idle0006" x="346.5" y="0" width="115.5" height="143.5"/>
+	<SubTexture name="idle0007" x="462" y="0" width="115.5" height="143.5"/>
+	<SubTexture name="idle0008" x="462" y="0" width="115.5" height="143.5"/>
+	<SubTexture name="singDOWN0000" x="577.5" y="0" width="138" height="108"/>
+	<SubTexture name="singDOWN0001" x="715.5" y="0" width="138" height="108"/>
+	<SubTexture name="singDOWN0002" x="853.5" y="0" width="138" height="108"/>
+	<SubTexture name="singDOWN0003" x="853.5" y="0" width="138" height="108"/>
+	<SubTexture name="singDOWN0004" x="0" y="143.5" width="138" height="108"/>
+	<SubTexture name="singDOWN0005" x="0" y="143.5" width="138" height="108"/>
+	<SubTexture name="singDOWN0006" x="138" y="143.5" width="138" height="127"/>
+	<SubTexture name="singLEFT0000" x="276" y="143.5" width="131.5" height="127"/>
+	<SubTexture name="singLEFT0001" x="407.5" y="143.5" width="131.5" height="127"/>
+	<SubTexture name="singLEFT0002" x="539" y="143.5" width="131.5" height="127"/>
+	<SubTexture name="singLEFT0003" x="539" y="143.5" width="131.5" height="127"/>
+	<SubTexture name="singLEFT0004" x="670.5" y="143.5" width="131.5" height="127"/>
+	<SubTexture name="singLEFT0005" x="670.5" y="143.5" width="131.5" height="127"/>
+	<SubTexture name="singLEFT0006" x="802" y="143.5" width="131.5" height="127"/>
+	<SubTexture name="singLEFT0007" x="802" y="143.5" width="131.5" height="127"/>
+	<SubTexture name="singRIGHT0000" x="0" y="271.5" width="117" height="105.5"/>
+	<SubTexture name="singRIGHT0001" x="117" y="271.5" width="117" height="105.5"/>
+	<SubTexture name="singRIGHT0002" x="234" y="271.5" width="117" height="105.5"/>
+	<SubTexture name="singRIGHT0003" x="234" y="271.5" width="117" height="105.5"/>
+	<SubTexture name="singRIGHT0004" x="351" y="271.5" width="117" height="105.5"/>
+	<SubTexture name="singRIGHT0005" x="351" y="271.5" width="117" height="105.5"/>
+	<SubTexture name="singRIGHT0006" x="468" y="271.5" width="117" height="105.5"/>
+	<SubTexture name="singRIGHT0007" x="468" y="271.5" width="117" height="105.5"/>
+	<SubTexture name="singUP0000" x="585" y="271.5" width="104" height="125"/>
+	<SubTexture name="singUP0001" x="689" y="271.5" width="104" height="125"/>
+	<SubTexture name="singUP0002" x="793" y="271.5" width="104" height="125"/>
+	<SubTexture name="singUP0003" x="793" y="271.5" width="104" height="125"/>
+	<SubTexture name="singUP0004" x="897" y="271.5" width="104" height="125"/>
+	<SubTexture name="singUP0005" x="897" y="271.5" width="104" height="125"/>
+	<SubTexture name="singUP0006" x="0" y="396.5" width="104" height="125"/>
+</TextureAtlas>

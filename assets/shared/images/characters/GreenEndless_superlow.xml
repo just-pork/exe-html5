@@ -1,0 +1,8 @@
+﻿<?xml version="0.25" encoding="utf-8"?>
+<TextureAtlas imagePath="GreenEndless.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle0000" x="0" y="0" width="648.75" height="367"/>
+	<SubTexture name="Idle0001" x="648.75" y="0" width="648.75" height="367"/>
+	<SubTexture name="Idle0002" x="1297.5" y="0" width="648.75" height="367"/>
+</TextureAtlas>

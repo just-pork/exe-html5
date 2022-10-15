@@ -1,0 +1,131 @@
+﻿<?xml version="0.25" encoding="utf-8"?>
+<TextureAtlas imagePath="chaotix bf death.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="chaotix bf dead confirm0000" x="0" y="0" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dead confirm0001" x="21.75" y="0" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dead confirm0002" x="43.5" y="0" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dead confirm0003" x="65.25" y="0" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dead confirm0004" x="87" y="0" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dead confirm0005" x="108.75" y="0" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dead confirm0006" x="130.5" y="0" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dead confirm0007" x="152.25" y="0" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dead confirm0008" x="174" y="0" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dead confirm0009" x="195.75" y="0" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dead confirm0010" x="217.5" y="0" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dead confirm0011" x="0" y="17" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dead confirm0012" x="21.75" y="17" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dead confirm0013" x="43.5" y="17" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dead confirm0014" x="65.25" y="17" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dead confirm0015" x="87" y="17" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dead confirm0016" x="108.75" y="17" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dead confirm0017" x="130.5" y="17" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dead confirm0018" x="152.25" y="17" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dead confirm0019" x="174" y="17" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dead confirm0020" x="195.75" y="17" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dead confirm0021" x="217.5" y="17" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dead confirm0022" x="0" y="34" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dead confirm0023" x="21.75" y="34" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dead confirm0024" x="43.5" y="34" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dead confirm0025" x="65.25" y="34" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dead confirm0026" x="87" y="34" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dead confirm0027" x="108.75" y="34" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dead confirm0028" x="130.5" y="34" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dead confirm0029" x="152.25" y="34" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dead confirm0030" x="174" y="34" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dead confirm0031" x="195.75" y="34" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dead confirm0032" x="217.5" y="34" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dead confirm0033" x="0" y="51" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf death loop0000" x="21.75" y="51" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf death loop0001" x="43.5" y="51" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf death loop0002" x="65.25" y="51" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf death loop0003" x="87" y="51" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf death loop0004" x="108.75" y="51" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf death loop0005" x="130.5" y="51" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf death loop0006" x="152.25" y="51" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf death loop0007" x="174" y="51" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf death loop0008" x="195.75" y="51" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf death loop0009" x="217.5" y="51" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf death loop0010" x="0" y="68" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf death loop0011" x="21.75" y="68" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf death loop0012" x="43.5" y="68" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf death loop0013" x="65.25" y="68" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf death loop0014" x="87" y="68" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf death loop0015" x="108.75" y="68" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf death loop0016" x="130.5" y="68" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf death loop0017" x="152.25" y="68" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf death loop0018" x="174" y="68" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf death loop0019" x="195.75" y="68" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf death loop0020" x="217.5" y="68" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf death loop0021" x="0" y="85" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf death loop0022" x="21.75" y="85" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf death loop0023" x="43.5" y="85" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf death loop0024" x="65.25" y="85" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf death loop0025" x="87" y="85" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf death loop0026" x="108.75" y="85" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf death loop0027" x="130.5" y="85" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf death loop0028" x="152.25" y="85" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf death loop0029" x="174" y="85" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf death loop0030" x="195.75" y="85" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf death loop0031" x="217.5" y="85" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf death loop0032" x="0" y="102" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf death loop0033" x="21.75" y="102" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0000" x="43.5" y="102" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0001" x="65.25" y="102" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0002" x="87" y="102" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0003" x="108.75" y="102" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0004" x="130.5" y="102" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0005" x="152.25" y="102" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0006" x="174" y="102" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0007" x="195.75" y="102" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0008" x="217.5" y="102" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0009" x="0" y="119" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0010" x="21.75" y="119" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0011" x="43.5" y="119" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0012" x="65.25" y="119" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0013" x="87" y="119" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0014" x="108.75" y="119" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0015" x="130.5" y="119" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0016" x="152.25" y="119" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0017" x="174" y="119" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0018" x="195.75" y="119" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0019" x="217.5" y="119" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0020" x="0" y="136" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0021" x="21.75" y="136" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0022" x="43.5" y="136" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0023" x="65.25" y="136" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0024" x="87" y="136" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0025" x="108.75" y="136" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0026" x="130.5" y="136" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0027" x="152.25" y="136" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0028" x="174" y="136" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0029" x="195.75" y="136" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0030" x="217.5" y="136" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0031" x="0" y="153" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0032" x="21.75" y="153" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0033" x="43.5" y="153" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0034" x="65.25" y="153" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0035" x="87" y="153" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0036" x="108.75" y="153" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0037" x="130.5" y="153" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0038" x="152.25" y="153" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0039" x="174" y="153" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0040" x="195.75" y="153" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0041" x="217.5" y="153" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0042" x="0" y="170" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0043" x="21.75" y="170" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0044" x="43.5" y="170" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0045" x="65.25" y="170" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0046" x="87" y="170" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0047" x="108.75" y="170" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0048" x="130.5" y="170" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0049" x="152.25" y="170" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0050" x="174" y="170" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0051" x="195.75" y="170" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0052" x="217.5" y="170" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0053" x="0" y="187" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0054" x="21.75" y="187" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0055" x="43.5" y="187" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0056" x="65.25" y="187" width="21.75" height="17"/>
+	<SubTexture name="chaotix bf dies0057" x="87" y="187" width="21.75" height="17"/>
+</TextureAtlas>

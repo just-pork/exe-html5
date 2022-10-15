@@ -1,0 +1,77 @@
+﻿<?xml version="0.25" encoding="utf-8"?>
+<TextureAtlas imagePath="devoid2.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="devoid down0000" x="0" y="0" width="95.5" height="92.75" frameX="0" frameY="-2.5" frameWidth="95.5" frameHeight="95.25"/>
+	<SubTexture name="devoid down0001" x="0" y="0" width="95.5" height="92.75" frameX="0" frameY="-2.5" frameWidth="95.5" frameHeight="95.25"/>
+	<SubTexture name="devoid down0002" x="95.5" y="0" width="94.75" height="95.25" frameX="-0.5" frameY="0" frameWidth="95.5" frameHeight="95.25"/>
+	<SubTexture name="devoid down0003" x="190.25" y="0" width="94.5" height="95.25" frameX="-0.75" frameY="0" frameWidth="95.5" frameHeight="95.25"/>
+	<SubTexture name="devoid down0004" x="190.25" y="0" width="94.5" height="95.25" frameX="-0.75" frameY="0" frameWidth="95.5" frameHeight="95.25"/>
+	<SubTexture name="devoid down0005" x="284.75" y="0" width="94.5" height="95.25" frameX="-0.75" frameY="0" frameWidth="95.5" frameHeight="95.25"/>
+	<SubTexture name="devoid down0006" x="284.75" y="0" width="94.5" height="95.25" frameX="-0.75" frameY="0" frameWidth="95.5" frameHeight="95.25"/>
+	<SubTexture name="devoid down0007" x="284.75" y="0" width="94.5" height="95.25" frameX="-0.75" frameY="0" frameWidth="95.5" frameHeight="95.25"/>
+	<SubTexture name="devoid down0008" x="284.75" y="0" width="94.5" height="95.25" frameX="-0.75" frameY="0" frameWidth="95.5" frameHeight="95.25"/>
+	<SubTexture name="devoid down0009" x="284.75" y="0" width="94.5" height="95.25" frameX="-0.75" frameY="0" frameWidth="95.5" frameHeight="95.25"/>
+	<SubTexture name="devoid down0010" x="284.75" y="0" width="94.5" height="95.25" frameX="-0.75" frameY="0" frameWidth="95.5" frameHeight="95.25"/>
+	<SubTexture name="devoid down0011" x="284.75" y="0" width="94.5" height="95.25" frameX="-0.75" frameY="0" frameWidth="95.5" frameHeight="95.25"/>
+	<SubTexture name="devoid idle0000" x="379.25" y="0" width="87.25" height="102.5" frameX="-2.5" frameY="0" frameWidth="89.75" frameHeight="102.5"/>
+	<SubTexture name="devoid idle0001" x="379.25" y="0" width="87.25" height="102.5" frameX="-2.5" frameY="0" frameWidth="89.75" frameHeight="102.5"/>
+	<SubTexture name="devoid idle0002" x="0" y="102.5" width="86.5" height="101" frameX="-0.75" frameY="-1.5" frameWidth="89.75" frameHeight="102.5"/>
+	<SubTexture name="devoid idle0003" x="0" y="102.5" width="86.5" height="101" frameX="-0.75" frameY="-1.5" frameWidth="89.75" frameHeight="102.5"/>
+	<SubTexture name="devoid idle0004" x="86.5" y="102.5" width="86.25" height="100.5" frameX="-0.25" frameY="-2" frameWidth="89.75" frameHeight="102.5"/>
+	<SubTexture name="devoid idle0005" x="86.5" y="102.5" width="86.25" height="100.5" frameX="-0.25" frameY="-2" frameWidth="89.75" frameHeight="102.5"/>
+	<SubTexture name="devoid idle0006" x="172.75" y="102.5" width="86" height="100.25" frameX="0" frameY="-2.25" frameWidth="89.75" frameHeight="102.5"/>
+	<SubTexture name="devoid idle0007" x="172.75" y="102.5" width="86" height="100.25" frameX="0" frameY="-2.25" frameWidth="89.75" frameHeight="102.5"/>
+	<SubTexture name="devoid idle0008" x="258.75" y="102.5" width="85.75" height="100.25" frameX="0" frameY="-2.25" frameWidth="89.75" frameHeight="102.5"/>
+	<SubTexture name="devoid idle0009" x="258.75" y="102.5" width="85.75" height="100.25" frameX="0" frameY="-2.25" frameWidth="89.75" frameHeight="102.5"/>
+	<SubTexture name="devoid idle0010" x="258.75" y="102.5" width="85.75" height="100.25" frameX="0" frameY="-2.25" frameWidth="89.75" frameHeight="102.5"/>
+	<SubTexture name="devoid idle0011" x="258.75" y="102.5" width="85.75" height="100.25" frameX="0" frameY="-2.25" frameWidth="89.75" frameHeight="102.5"/>
+	<SubTexture name="devoid idle0012" x="258.75" y="102.5" width="85.75" height="100.25" frameX="0" frameY="-2.25" frameWidth="89.75" frameHeight="102.5"/>
+	<SubTexture name="devoid idle0013" x="258.75" y="102.5" width="85.75" height="100.25" frameX="0" frameY="-2.25" frameWidth="89.75" frameHeight="102.5"/>
+	<SubTexture name="devoid left0000" x="344.5" y="102.5" width="117" height="105" frameX="0" frameY="-1.5" frameWidth="117" frameHeight="106.5"/>
+	<SubTexture name="devoid left0001" x="344.5" y="102.5" width="117" height="105" frameX="0" frameY="-1.5" frameWidth="117" frameHeight="106.5"/>
+	<SubTexture name="devoid left0002" x="0" y="207.5" width="101" height="106.5" frameX="-2" frameY="0" frameWidth="117" frameHeight="106.5"/>
+	<SubTexture name="devoid left0003" x="101" y="207.5" width="98.5" height="106.5" frameX="-2" frameY="0" frameWidth="117" frameHeight="106.5"/>
+	<SubTexture name="devoid left0004" x="101" y="207.5" width="98.5" height="106.5" frameX="-2" frameY="0" frameWidth="117" frameHeight="106.5"/>
+	<SubTexture name="devoid left0005" x="199.5" y="207.5" width="98.5" height="106.5" frameX="-2" frameY="0" frameWidth="117" frameHeight="106.5"/>
+	<SubTexture name="devoid left0006" x="199.5" y="207.5" width="98.5" height="106.5" frameX="-2" frameY="0" frameWidth="117" frameHeight="106.5"/>
+	<SubTexture name="devoid left0007" x="199.5" y="207.5" width="98.5" height="106.5" frameX="-2" frameY="0" frameWidth="117" frameHeight="106.5"/>
+	<SubTexture name="devoid left0008" x="199.5" y="207.5" width="98.5" height="106.5" frameX="-2" frameY="0" frameWidth="117" frameHeight="106.5"/>
+	<SubTexture name="devoid left0009" x="199.5" y="207.5" width="98.5" height="106.5" frameX="-2" frameY="0" frameWidth="117" frameHeight="106.5"/>
+	<SubTexture name="devoid left0010" x="199.5" y="207.5" width="98.5" height="106.5" frameX="-2" frameY="0" frameWidth="117" frameHeight="106.5"/>
+	<SubTexture name="devoid left0011" x="199.5" y="207.5" width="98.5" height="106.5" frameX="-2" frameY="0" frameWidth="117" frameHeight="106.5"/>
+	<SubTexture name="devoid left0012" x="199.5" y="207.5" width="98.5" height="106.5" frameX="-2" frameY="0" frameWidth="117" frameHeight="106.5"/>
+	<SubTexture name="devoid left0013" x="199.5" y="207.5" width="98.5" height="106.5" frameX="-2" frameY="0" frameWidth="117" frameHeight="106.5"/>
+	<SubTexture name="devoid left0014" x="199.5" y="207.5" width="98.5" height="106.5" frameX="-2" frameY="0" frameWidth="117" frameHeight="106.5"/>
+	<SubTexture name="devoid left0015" x="199.5" y="207.5" width="98.5" height="106.5" frameX="-2" frameY="0" frameWidth="117" frameHeight="106.5"/>
+	<SubTexture name="devoid left0016" x="199.5" y="207.5" width="98.5" height="106.5" frameX="-2" frameY="0" frameWidth="117" frameHeight="106.5"/>
+	<SubTexture name="devoid left0017" x="199.5" y="207.5" width="98.5" height="106.5" frameX="-2" frameY="0" frameWidth="117" frameHeight="106.5"/>
+	<SubTexture name="devoid left0018" x="199.5" y="207.5" width="98.5" height="106.5" frameX="-2" frameY="0" frameWidth="117" frameHeight="106.5"/>
+	<SubTexture name="devoid left0019" x="199.5" y="207.5" width="98.5" height="106.5" frameX="-2" frameY="0" frameWidth="117" frameHeight="106.5"/>
+	<SubTexture name="devoid right0000" x="298" y="207.5" width="98.75" height="99.75"/>
+	<SubTexture name="devoid right0001" x="298" y="207.5" width="98.75" height="99.75"/>
+	<SubTexture name="devoid right0002" x="396.75" y="207.5" width="87.75" height="97.75" frameX="-3.25" frameY="-2" frameWidth="98.75" frameHeight="99.75"/>
+	<SubTexture name="devoid right0003" x="0" y="314" width="87.25" height="97.75" frameX="-3.75" frameY="-2" frameWidth="98.75" frameHeight="99.75"/>
+	<SubTexture name="devoid right0004" x="0" y="314" width="87.25" height="97.75" frameX="-3.75" frameY="-2" frameWidth="98.75" frameHeight="99.75"/>
+	<SubTexture name="devoid right0005" x="87.25" y="314" width="87.25" height="97.75" frameX="-3.75" frameY="-2" frameWidth="98.75" frameHeight="99.75"/>
+	<SubTexture name="devoid right0006" x="87.25" y="314" width="87.25" height="97.75" frameX="-3.75" frameY="-2" frameWidth="98.75" frameHeight="99.75"/>
+	<SubTexture name="devoid right0007" x="87.25" y="314" width="87.25" height="97.75" frameX="-3.75" frameY="-2" frameWidth="98.75" frameHeight="99.75"/>
+	<SubTexture name="devoid right0008" x="87.25" y="314" width="87.25" height="97.75" frameX="-3.75" frameY="-2" frameWidth="98.75" frameHeight="99.75"/>
+	<SubTexture name="devoid right0009" x="87.25" y="314" width="87.25" height="97.75" frameX="-3.75" frameY="-2" frameWidth="98.75" frameHeight="99.75"/>
+	<SubTexture name="devoid right0010" x="87.25" y="314" width="87.25" height="97.75" frameX="-3.75" frameY="-2" frameWidth="98.75" frameHeight="99.75"/>
+	<SubTexture name="devoid right0011" x="87.25" y="314" width="87.25" height="97.75" frameX="-3.75" frameY="-2" frameWidth="98.75" frameHeight="99.75"/>
+	<SubTexture name="devoid up0000" x="174.5" y="314" width="103.75" height="114.75" frameX="-0.25" frameY="0" frameWidth="104" frameHeight="114.75"/>
+	<SubTexture name="devoid up0001" x="174.5" y="314" width="103.75" height="114.75" frameX="-0.25" frameY="0" frameWidth="104" frameHeight="114.75"/>
+	<SubTexture name="devoid up0002" x="278.25" y="314" width="98.5" height="111" frameX="0" frameY="-3.75" frameWidth="104" frameHeight="114.75"/>
+	<SubTexture name="devoid up0003" x="278.25" y="314" width="98.5" height="111" frameX="0" frameY="-3.75" frameWidth="104" frameHeight="114.75"/>
+	<SubTexture name="devoid up0004" x="278.25" y="314" width="98.5" height="111" frameX="0" frameY="-3.75" frameWidth="104" frameHeight="114.75"/>
+	<SubTexture name="devoid up0005" x="278.25" y="314" width="98.5" height="111" frameX="0" frameY="-3.75" frameWidth="104" frameHeight="114.75"/>
+	<SubTexture name="devoid up0006" x="278.25" y="314" width="98.5" height="111" frameX="0" frameY="-3.75" frameWidth="104" frameHeight="114.75"/>
+	<SubTexture name="devoid up0007" x="278.25" y="314" width="98.5" height="111" frameX="0" frameY="-3.75" frameWidth="104" frameHeight="114.75"/>
+	<SubTexture name="devoid up0008" x="278.25" y="314" width="98.5" height="111" frameX="0" frameY="-3.75" frameWidth="104" frameHeight="114.75"/>
+	<SubTexture name="devoid up0009" x="278.25" y="314" width="98.5" height="111" frameX="0" frameY="-3.75" frameWidth="104" frameHeight="114.75"/>
+	<SubTexture name="devoid up0010" x="278.25" y="314" width="98.5" height="111" frameX="0" frameY="-3.75" frameWidth="104" frameHeight="114.75"/>
+	<SubTexture name="devoid up0011" x="278.25" y="314" width="98.5" height="111" frameX="0" frameY="-3.75" frameWidth="104" frameHeight="114.75"/>
+	<SubTexture name="devoid up0012" x="278.25" y="314" width="98.5" height="111" frameX="0" frameY="-3.75" frameWidth="104" frameHeight="114.75"/>
+	<SubTexture name="devoid up0013" x="278.25" y="314" width="98.5" height="111" frameX="0" frameY="-3.75" frameWidth="104" frameHeight="114.75"/>
+</TextureAtlas>

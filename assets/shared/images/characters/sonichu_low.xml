@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sonichu.png"><SubTexture name="sonichu idle0000" x="417.5" y="271.5" width="221" height="263" frameX="-38" frameY="-29" frameWidth="309.5" frameHeight="329" />
+<SubTexture name="sonichu idle0001" x="211.5" y="786" width="219.5" height="226" frameX="-45.5" frameY="-66.5" frameWidth="309.5" frameHeight="329" />
+<SubTexture name="sonichu idle0002" x="432.5" y="538" width="221.5" height="242.5" frameX="-42" frameY="-50" frameWidth="309.5" frameHeight="329" />
+<SubTexture name="sonichu idle0003" x="210" y="538" width="222.5" height="247.5" frameX="-40" frameY="-45" frameWidth="309.5" frameHeight="329" />
+<SubTexture name="sonichu idle0004" x="417.5" y="271.5" width="221" height="263" frameX="-38" frameY="-29" frameWidth="309.5" frameHeight="329" />
+<SubTexture name="sonichu right0000" x="173.5" y="271.5" width="244" height="265.5" frameX="-43" frameY="-27" frameWidth="309.5" frameHeight="329" />
+<SubTexture name="sonichu right0001" x="420.5" y="0" width="242" height="266.5" frameX="-39.5" frameY="-26" frameWidth="309.5" frameHeight="329" />
+<SubTexture name="sonichu right0002" x="175" y="0" width="245.5" height="267" frameX="-32" frameY="-25.5" frameWidth="309.5" frameHeight="329" />
+<SubTexture name="sonichu up0000" x="0" y="0" width="175" height="271.5" frameX="-40" frameY="-21" frameWidth="309.5" frameHeight="329" />
+<SubTexture name="sonichu up0001" x="0" y="271.5" width="173.5" height="266.5" frameX="-40" frameY="-26" frameWidth="309.5" frameHeight="329" />
+<SubTexture name="sonichu left0000" x="838" y="0" width="203" height="241" frameX="-5" frameY="-51.5" frameWidth="309.5" frameHeight="329" />
+<SubTexture name="sonichu left0001" x="0" y="538" width="210" height="248" frameX="-5.5" frameY="-44.5" frameWidth="309.5" frameHeight="329" />
+<SubTexture name="sonichu left0002" x="0" y="786" width="211.5" height="241" frameX="-18.5" frameY="-51.5" frameWidth="309.5" frameHeight="329" />
+<SubTexture name="sonichu down0000" x="1041" y="0" width="242" height="194.5" frameX="-65.5" frameY="-98" frameWidth="309.5" frameHeight="329" />
+<SubTexture name="sonichu down0001" x="674" y="786" width="241.5" height="196.5" frameX="-65.5" frameY="-96" frameWidth="309.5" frameHeight="329" />
+<SubTexture name="sonichu down0002" x="431" y="786" width="243" height="214" frameX="-64.5" frameY="-78.5" frameWidth="309.5" frameHeight="329" />
+<SubTexture name="sonichu up0002" x="662.5" y="0" width="175.5" height="259" frameX="-38.5" frameY="-33.5" frameWidth="309.5" frameHeight="329" />
+</TextureAtlas>

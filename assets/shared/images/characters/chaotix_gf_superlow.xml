@@ -1,0 +1,34 @@
+﻿<?xml version="0.25" encoding="utf-8"?>
+<TextureAtlas imagePath="chaotix gf.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="chaotix gf0000" x="0" y="0" width="10.5" height="10"/>
+	<SubTexture name="chaotix gf0001" x="10.5" y="0" width="10.5" height="10"/>
+	<SubTexture name="chaotix gf0002" x="21" y="0" width="10.5" height="10"/>
+	<SubTexture name="chaotix gf0003" x="31.5" y="0" width="10.5" height="10"/>
+	<SubTexture name="chaotix gf0004" x="42" y="0" width="10.5" height="10"/>
+	<SubTexture name="chaotix gf0005" x="52.5" y="0" width="10.5" height="10"/>
+	<SubTexture name="chaotix gf0006" x="0" y="10" width="10.5" height="10"/>
+	<SubTexture name="chaotix gf0007" x="10.5" y="10" width="10.5" height="10"/>
+	<SubTexture name="chaotix gf0008" x="21" y="10" width="10.5" height="10"/>
+	<SubTexture name="chaotix gf0009" x="31.5" y="10" width="10.5" height="10"/>
+	<SubTexture name="chaotix gf0010" x="42" y="10" width="10.5" height="10"/>
+	<SubTexture name="chaotix gf0011" x="52.5" y="10" width="10.5" height="10"/>
+	<SubTexture name="chaotix gf0012" x="0" y="20" width="10.5" height="10"/>
+	<SubTexture name="chaotix gf0013" x="10.5" y="20" width="10.5" height="10"/>
+	<SubTexture name="chaotix gf0014" x="21" y="20" width="10.5" height="10"/>
+	<SubTexture name="chaotix gf0015" x="31.5" y="20" width="10.5" height="10"/>
+	<SubTexture name="chaotix gf0016" x="42" y="20" width="10.5" height="10"/>
+	<SubTexture name="chaotix gf0017" x="52.5" y="20" width="10.5" height="10"/>
+	<SubTexture name="chaotix gf0018" x="0" y="30" width="10.5" height="10"/>
+	<SubTexture name="chaotix gf0019" x="10.5" y="30" width="10.5" height="10"/>
+	<SubTexture name="chaotix gf0020" x="21" y="30" width="10.5" height="10"/>
+	<SubTexture name="chaotix gf0021" x="31.5" y="30" width="10.5" height="10"/>
+	<SubTexture name="chaotix gf0022" x="42" y="30" width="10.5" height="10"/>
+	<SubTexture name="chaotix gf0023" x="52.5" y="30" width="10.5" height="10"/>
+	<SubTexture name="chaotix gf0024" x="0" y="40" width="10.5" height="10"/>
+	<SubTexture name="chaotix gf0025" x="10.5" y="40" width="10.5" height="10"/>
+	<SubTexture name="chaotix gf0026" x="21" y="40" width="10.5" height="10"/>
+	<SubTexture name="chaotix gf0027" x="31.5" y="40" width="10.5" height="10"/>
+	<SubTexture name="chaotix gf0028" x="42" y="40" width="10.5" height="10"/>
+</TextureAtlas>

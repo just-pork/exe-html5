@@ -1,0 +1,24 @@
+﻿<?xml version="0.5" encoding="utf-8"?>
+<TextureAtlas imagePath="TargetLock.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TargetLock0000" x="0" y="0" width="237.5" height="255.5"/>
+	<SubTexture name="TargetLock0001" x="0" y="0" width="237.5" height="255.5"/>
+	<SubTexture name="TargetLock0002" x="0" y="0" width="237.5" height="255.5"/>
+	<SubTexture name="TargetLock0003" x="0" y="0" width="237.5" height="255.5"/>
+	<SubTexture name="TargetLock0004" x="0" y="0" width="237.5" height="255.5"/>
+	<SubTexture name="TargetLock0005" x="0" y="0" width="237.5" height="255.5"/>
+	<SubTexture name="TargetLock0006" x="237.5" y="0" width="188.5" height="200.5" frameX="-25" frameY="-26.5" frameWidth="237.5" frameHeight="255.5"/>
+	<SubTexture name="TargetLock0007" x="0" y="255.5" width="149" height="156" frameX="-45.5" frameY="-48" frameWidth="237.5" frameHeight="255.5"/>
+	<SubTexture name="TargetLock0008" x="149" y="255.5" width="118" height="120.5" frameX="-61.5" frameY="-65" frameWidth="237.5" frameHeight="255.5"/>
+	<SubTexture name="TargetLock0009" x="267" y="255.5" width="95.5" height="96" frameX="-73" frameY="-77" frameWidth="237.5" frameHeight="255.5"/>
+	<SubTexture name="TargetLock0010" x="362.5" y="255.5" width="82" height="80.5" frameX="-80" frameY="-84.5" frameWidth="237.5" frameHeight="255.5"/>
+	<SubTexture name="TargetLock0011" x="0" y="411.5" width="77.5" height="75.5" frameX="-82.5" frameY="-87" frameWidth="237.5" frameHeight="255.5"/>
+	<SubTexture name="TargetLock0012" x="0" y="411.5" width="77.5" height="75.5" frameX="-82.5" frameY="-87" frameWidth="237.5" frameHeight="255.5"/>
+	<SubTexture name="TargetLock0013" x="0" y="411.5" width="77.5" height="75.5" frameX="-82.5" frameY="-87" frameWidth="237.5" frameHeight="255.5"/>
+	<SubTexture name="TargetLock0014" x="0" y="411.5" width="77.5" height="75.5" frameX="-82.5" frameY="-87" frameWidth="237.5" frameHeight="255.5"/>
+	<SubTexture name="TargetLock0015" x="0" y="411.5" width="77.5" height="75.5" frameX="-82.5" frameY="-87" frameWidth="237.5" frameHeight="255.5"/>
+	<SubTexture name="TargetLock0016" x="0" y="411.5" width="77.5" height="75.5" frameX="-82.5" frameY="-87" frameWidth="237.5" frameHeight="255.5"/>
+	<SubTexture name="TargetLock0017" x="0" y="411.5" width="77.5" height="75.5" frameX="-82.5" frameY="-87" frameWidth="237.5" frameHeight="255.5"/>
+	<SubTexture name="TargetLock0018" x="0" y="411.5" width="77.5" height="75.5" frameX="-82.5" frameY="-87" frameWidth="237.5" frameHeight="255.5"/>
+</TextureAtlas>

@@ -1,0 +1,16 @@
+﻿<?xml version="0.5" encoding="utf-8"?>
+<TextureAtlas imagePath="TreeAnimatedMoment.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TreeAnimated0000" x="0" y="0" width="196.5" height="313.5"/>
+	<SubTexture name="TreeAnimated0001" x="196.5" y="0" width="196.5" height="313.5"/>
+	<SubTexture name="TreeAnimated0002" x="393" y="0" width="196.5" height="313.5"/>
+	<SubTexture name="TreeAnimated0003" x="589.5" y="0" width="196.5" height="313.5"/>
+	<SubTexture name="TreeAnimated0004" x="786" y="0" width="196.5" height="313.5"/>
+	<SubTexture name="TreeAnimated0005" x="0" y="313.5" width="196.5" height="313.5"/>
+	<SubTexture name="TreeAnimated0006" x="196.5" y="313.5" width="196.5" height="313.5"/>
+	<SubTexture name="TreeAnimated0007" x="393" y="313.5" width="196.5" height="313.5"/>
+	<SubTexture name="TreeAnimated0008" x="589.5" y="313.5" width="196.5" height="313.5"/>
+	<SubTexture name="TreeAnimated0009" x="786" y="313.5" width="196.5" height="313.5"/>
+	<SubTexture name="TreeAnimated0010" x="0" y="627" width="196.5" height="313.5"/>
+</TextureAtlas>

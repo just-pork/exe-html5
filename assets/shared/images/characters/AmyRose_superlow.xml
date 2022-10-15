@@ -1,0 +1,75 @@
+﻿<?xml version="0.25" encoding="utf-8"?>
+<TextureAtlas imagePath="AmyRose.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Knux Down instance 10000" x="0" y="0" width="137" height="131.75" frameX="0" frameY="-0.25" frameWidth="137" frameHeight="132"/>
+	<SubTexture name="Knux Down instance 10001" x="137" y="0" width="135.5" height="131.75" frameX="-0.75" frameY="-0.25" frameWidth="137" frameHeight="132"/>
+	<SubTexture name="Knux Down instance 10002" x="272.5" y="0" width="133.5" height="132" frameX="-1.5" frameY="0" frameWidth="137" frameHeight="132"/>
+	<SubTexture name="Knux Down instance 10003" x="406" y="0" width="132.25" height="132" frameX="-2.75" frameY="0" frameWidth="137" frameHeight="132"/>
+	<SubTexture name="Knux Down instance 10004" x="406" y="0" width="132.25" height="132" frameX="-2.75" frameY="0" frameWidth="137" frameHeight="132"/>
+	<SubTexture name="Knux Down instance 10005" x="0" y="0" width="137" height="131.75" frameX="0" frameY="-0.25" frameWidth="137" frameHeight="132"/>
+	<SubTexture name="Knux Down instance 10006" x="137" y="0" width="135.5" height="131.75" frameX="-0.75" frameY="-0.25" frameWidth="137" frameHeight="132"/>
+	<SubTexture name="Knux Down instance 10007" x="272.5" y="0" width="133.5" height="132" frameX="-1.5" frameY="0" frameWidth="137" frameHeight="132"/>
+	<SubTexture name="Knux Down instance 10008" x="406" y="0" width="132.25" height="132" frameX="-2.75" frameY="0" frameWidth="137" frameHeight="132"/>
+	<SubTexture name="Knux Down instance 10009" x="406" y="0" width="132.25" height="132" frameX="-2.75" frameY="0" frameWidth="137" frameHeight="132"/>
+	<SubTexture name="Knux Down instance 10010" x="0" y="0" width="137" height="131.75" frameX="0" frameY="-0.25" frameWidth="137" frameHeight="132"/>
+	<SubTexture name="Knux Down instance 10011" x="137" y="0" width="135.5" height="131.75" frameX="-0.75" frameY="-0.25" frameWidth="137" frameHeight="132"/>
+	<SubTexture name="Knux Down instance 10012" x="272.5" y="0" width="133.5" height="132" frameX="-1.5" frameY="0" frameWidth="137" frameHeight="132"/>
+	<SubTexture name="Knux Down instance 10013" x="406" y="0" width="132.25" height="132" frameX="-2.75" frameY="0" frameWidth="137" frameHeight="132"/>
+	<SubTexture name="Knux Idle instance 10000" x="538.25" y="0" width="107" height="130.75"/>
+	<SubTexture name="Knux Idle instance 10001" x="538.25" y="0" width="107" height="130.75"/>
+	<SubTexture name="Knux Idle instance 10002" x="645.25" y="0" width="104" height="130.75" frameX="-2" frameY="0" frameWidth="107" frameHeight="130.75"/>
+	<SubTexture name="Knux Idle instance 10003" x="645.25" y="0" width="104" height="130.75" frameX="-2" frameY="0" frameWidth="107" frameHeight="130.75"/>
+	<SubTexture name="Knux Idle instance 10004" x="749.25" y="0" width="102" height="130" frameX="-3" frameY="-0.75" frameWidth="107" frameHeight="130.75"/>
+	<SubTexture name="Knux Idle instance 10005" x="749.25" y="0" width="102" height="130" frameX="-3" frameY="-0.75" frameWidth="107" frameHeight="130.75"/>
+	<SubTexture name="Knux Idle instance 10006" x="851.25" y="0" width="100.25" height="129" frameX="-4.75" frameY="-1.75" frameWidth="107" frameHeight="130.75"/>
+	<SubTexture name="Knux Idle instance 10007" x="851.25" y="0" width="100.25" height="129" frameX="-4.75" frameY="-1.75" frameWidth="107" frameHeight="130.75"/>
+	<SubTexture name="Knux Idle instance 10008" x="851.25" y="0" width="100.25" height="129" frameX="-4.75" frameY="-1.75" frameWidth="107" frameHeight="130.75"/>
+	<SubTexture name="Knux Idle instance 10009" x="851.25" y="0" width="100.25" height="129" frameX="-4.75" frameY="-1.75" frameWidth="107" frameHeight="130.75"/>
+	<SubTexture name="Knux Idle instance 10010" x="851.25" y="0" width="100.25" height="129" frameX="-4.75" frameY="-1.75" frameWidth="107" frameHeight="130.75"/>
+	<SubTexture name="Knux Idle instance 10011" x="851.25" y="0" width="100.25" height="129" frameX="-4.75" frameY="-1.75" frameWidth="107" frameHeight="130.75"/>
+	<SubTexture name="Knux Idle instance 10012" x="851.25" y="0" width="100.25" height="129" frameX="-4.75" frameY="-1.75" frameWidth="107" frameHeight="130.75"/>
+	<SubTexture name="Knux Idle instance 10013" x="851.25" y="0" width="100.25" height="129" frameX="-4.75" frameY="-1.75" frameWidth="107" frameHeight="130.75"/>
+	<SubTexture name="Knux Left instance 10000" x="0" y="132" width="146.5" height="134.25" frameX="0" frameY="0" frameWidth="147.25" frameHeight="134.25"/>
+	<SubTexture name="Knux Left instance 10001" x="146.5" y="132" width="147.25" height="133.5" frameX="0" frameY="-0.5" frameWidth="147.25" frameHeight="134.25"/>
+	<SubTexture name="Knux Left instance 10002" x="293.75" y="132" width="144.75" height="132.5" frameX="0" frameY="-0.75" frameWidth="147.25" frameHeight="134.25"/>
+	<SubTexture name="Knux Left instance 10003" x="438.5" y="132" width="144.75" height="132.25" frameX="0" frameY="-1" frameWidth="147.25" frameHeight="134.25"/>
+	<SubTexture name="Knux Left instance 10004" x="438.5" y="132" width="144.75" height="132.25" frameX="0" frameY="-1" frameWidth="147.25" frameHeight="134.25"/>
+	<SubTexture name="Knux Left instance 10005" x="0" y="132" width="146.5" height="134.25" frameX="0" frameY="0" frameWidth="147.25" frameHeight="134.25"/>
+	<SubTexture name="Knux Left instance 10006" x="146.5" y="132" width="147.25" height="133.5" frameX="0" frameY="-0.5" frameWidth="147.25" frameHeight="134.25"/>
+	<SubTexture name="Knux Left instance 10007" x="293.75" y="132" width="144.75" height="132.5" frameX="0" frameY="-0.75" frameWidth="147.25" frameHeight="134.25"/>
+	<SubTexture name="Knux Left instance 10008" x="438.5" y="132" width="144.75" height="132.25" frameX="0" frameY="-1" frameWidth="147.25" frameHeight="134.25"/>
+	<SubTexture name="Knux Left instance 10009" x="438.5" y="132" width="144.75" height="132.25" frameX="0" frameY="-1" frameWidth="147.25" frameHeight="134.25"/>
+	<SubTexture name="Knux Left instance 10010" x="0" y="132" width="146.5" height="134.25" frameX="0" frameY="0" frameWidth="147.25" frameHeight="134.25"/>
+	<SubTexture name="Knux Left instance 10011" x="146.5" y="132" width="147.25" height="133.5" frameX="0" frameY="-0.5" frameWidth="147.25" frameHeight="134.25"/>
+	<SubTexture name="Knux Left instance 10012" x="293.75" y="132" width="144.75" height="132.5" frameX="0" frameY="-0.75" frameWidth="147.25" frameHeight="134.25"/>
+	<SubTexture name="Knux Left instance 10013" x="438.5" y="132" width="144.75" height="132.25" frameX="0" frameY="-1" frameWidth="147.25" frameHeight="134.25"/>
+	<SubTexture name="Knux Right copy instance 10000" x="583.25" y="132" width="144" height="132.75" frameX="-1.75" frameY="0" frameWidth="146.5" frameHeight="132.75"/>
+	<SubTexture name="Knux Right copy instance 10001" x="727.25" y="132" width="146.5" height="132.75"/>
+	<SubTexture name="Knux Right copy instance 10002" x="873.75" y="132" width="145.5" height="132.75" frameX="-0.75" frameY="0" frameWidth="146.5" frameHeight="132.75"/>
+	<SubTexture name="Knux Right copy instance 10003" x="0" y="266.25" width="144.5" height="132.75" frameX="-1.25" frameY="0" frameWidth="146.5" frameHeight="132.75"/>
+	<SubTexture name="Knux Right copy instance 10004" x="583.25" y="132" width="144" height="132.75" frameX="-1.75" frameY="0" frameWidth="146.5" frameHeight="132.75"/>
+	<SubTexture name="Knux Right copy instance 10005" x="727.25" y="132" width="146.5" height="132.75"/>
+	<SubTexture name="Knux Right copy instance 10006" x="873.75" y="132" width="145.5" height="132.75" frameX="-0.75" frameY="0" frameWidth="146.5" frameHeight="132.75"/>
+	<SubTexture name="Knux Right copy instance 10007" x="0" y="266.25" width="144.5" height="132.75" frameX="-1.25" frameY="0" frameWidth="146.5" frameHeight="132.75"/>
+	<SubTexture name="Knux Right copy instance 10008" x="583.25" y="132" width="144" height="132.75" frameX="-1.75" frameY="0" frameWidth="146.5" frameHeight="132.75"/>
+	<SubTexture name="Knux Right copy instance 10009" x="727.25" y="132" width="146.5" height="132.75"/>
+	<SubTexture name="Knux Right copy instance 10010" x="873.75" y="132" width="145.5" height="132.75" frameX="-0.75" frameY="0" frameWidth="146.5" frameHeight="132.75"/>
+	<SubTexture name="Knux Right copy instance 10011" x="0" y="266.25" width="144.5" height="132.75" frameX="-1.25" frameY="0" frameWidth="146.5" frameHeight="132.75"/>
+	<SubTexture name="Knux Right copy instance 10012" x="583.25" y="132" width="144" height="132.75" frameX="-1.75" frameY="0" frameWidth="146.5" frameHeight="132.75"/>
+	<SubTexture name="Knux Right copy instance 10013" x="727.25" y="132" width="146.5" height="132.75"/>
+	<SubTexture name="Knux Up instance 10000" x="144.5" y="266.25" width="106.5" height="135.75" frameX="-2.5" frameY="-1.75" frameWidth="109.25" frameHeight="137.5"/>
+	<SubTexture name="Knux Up instance 10001" x="251" y="266.25" width="109.25" height="137.5"/>
+	<SubTexture name="Knux Up instance 10002" x="360.25" y="266.25" width="108.5" height="137" frameX="-0.75" frameY="-0.5" frameWidth="109.25" frameHeight="137.5"/>
+	<SubTexture name="Knux Up instance 10003" x="468.75" y="266.25" width="107.75" height="136.5" frameX="-1.5" frameY="-1" frameWidth="109.25" frameHeight="137.5"/>
+	<SubTexture name="Knux Up instance 10004" x="144.5" y="266.25" width="106.5" height="135.75" frameX="-2.5" frameY="-1.75" frameWidth="109.25" frameHeight="137.5"/>
+	<SubTexture name="Knux Up instance 10005" x="251" y="266.25" width="109.25" height="137.5"/>
+	<SubTexture name="Knux Up instance 10006" x="360.25" y="266.25" width="108.5" height="137" frameX="-0.75" frameY="-0.5" frameWidth="109.25" frameHeight="137.5"/>
+	<SubTexture name="Knux Up instance 10007" x="468.75" y="266.25" width="107.75" height="136.5" frameX="-1.5" frameY="-1" frameWidth="109.25" frameHeight="137.5"/>
+	<SubTexture name="Knux Up instance 10008" x="144.5" y="266.25" width="106.5" height="135.75" frameX="-2.5" frameY="-1.75" frameWidth="109.25" frameHeight="137.5"/>
+	<SubTexture name="Knux Up instance 10009" x="251" y="266.25" width="109.25" height="137.5"/>
+	<SubTexture name="Knux Up instance 10010" x="360.25" y="266.25" width="108.5" height="137" frameX="-0.75" frameY="-0.5" frameWidth="109.25" frameHeight="137.5"/>
+	<SubTexture name="Knux Up instance 10011" x="468.75" y="266.25" width="107.75" height="136.5" frameX="-1.5" frameY="-1" frameWidth="109.25" frameHeight="137.5"/>
+	<SubTexture name="Knux Up instance 10012" x="144.5" y="266.25" width="106.5" height="135.75" frameX="-2.5" frameY="-1.75" frameWidth="109.25" frameHeight="137.5"/>
+	<SubTexture name="Knux Up instance 10013" x="251" y="266.25" width="109.25" height="137.5"/>
+</TextureAtlas>

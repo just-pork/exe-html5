@@ -1,0 +1,131 @@
+﻿<?xml version="0.25" encoding="utf-8"?>
+<TextureAtlas imagePath="sl4sh bf.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sl4sh bf down miss0000" x="0" y="0" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf down miss0001" x="12.5" y="0" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf down miss0002" x="25" y="0" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf down miss0003" x="37.5" y="0" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf down miss0004" x="50" y="0" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf down miss0005" x="62.5" y="0" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf down miss0006" x="75" y="0" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf down miss0007" x="87.5" y="0" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf down miss0008" x="100" y="0" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf down miss0009" x="112.5" y="0" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf down miss0010" x="125" y="0" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf down miss0011" x="137.5" y="0" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf down miss0012" x="150" y="0" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf down miss0013" x="162.5" y="0" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf down sing0000" x="175" y="0" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf down sing0001" x="187.5" y="0" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf down sing0002" x="200" y="0" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf down sing0003" x="212.5" y="0" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf down sing0004" x="225" y="0" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf down sing0005" x="237.5" y="0" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf down sing0006" x="0" y="13" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf down sing0007" x="12.5" y="13" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf down sing0008" x="25" y="13" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf down sing0009" x="37.5" y="13" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf down sing0010" x="50" y="13" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf down sing0011" x="62.5" y="13" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf down sing0012" x="75" y="13" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf down sing0013" x="87.5" y="13" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf idle0000" x="100" y="13" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf idle0001" x="112.5" y="13" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf idle0002" x="125" y="13" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf idle0003" x="137.5" y="13" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf idle0004" x="150" y="13" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf idle0005" x="162.5" y="13" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf idle0006" x="175" y="13" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf idle0007" x="187.5" y="13" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf idle0008" x="200" y="13" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf idle0009" x="212.5" y="13" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf idle0010" x="225" y="13" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf idle0011" x="237.5" y="13" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf idle0012" x="0" y="26" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf idle0013" x="12.5" y="26" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf left miss0000" x="25" y="26" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf left miss0001" x="37.5" y="26" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf left miss0002" x="50" y="26" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf left miss0003" x="62.5" y="26" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf left miss0004" x="75" y="26" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf left miss0005" x="87.5" y="26" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf left miss0006" x="100" y="26" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf left miss0007" x="112.5" y="26" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf left miss0008" x="125" y="26" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf left miss0009" x="137.5" y="26" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf left miss0010" x="150" y="26" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf left miss0011" x="162.5" y="26" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf left miss0012" x="175" y="26" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf left miss0013" x="187.5" y="26" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf left sing0000" x="200" y="26" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf left sing0001" x="212.5" y="26" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf left sing0002" x="225" y="26" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf left sing0003" x="237.5" y="26" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf left sing0004" x="0" y="39" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf left sing0005" x="12.5" y="39" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf left sing0006" x="25" y="39" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf left sing0007" x="37.5" y="39" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf left sing0008" x="50" y="39" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf left sing0009" x="62.5" y="39" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf left sing0010" x="75" y="39" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf left sing0011" x="87.5" y="39" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf left sing0012" x="100" y="39" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf left sing0013" x="112.5" y="39" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf right miss0000" x="125" y="39" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf right miss0001" x="137.5" y="39" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf right miss0002" x="150" y="39" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf right miss0003" x="162.5" y="39" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf right miss0004" x="175" y="39" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf right miss0005" x="187.5" y="39" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf right miss0006" x="200" y="39" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf right miss0007" x="212.5" y="39" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf right miss0008" x="225" y="39" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf right miss0009" x="237.5" y="39" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf right miss0010" x="0" y="52" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf right miss0011" x="12.5" y="52" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf right miss0012" x="25" y="52" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf right miss0013" x="37.5" y="52" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf right sing0000" x="50" y="52" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf right sing0001" x="62.5" y="52" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf right sing0002" x="75" y="52" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf right sing0003" x="87.5" y="52" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf right sing0004" x="100" y="52" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf right sing0005" x="112.5" y="52" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf right sing0006" x="125" y="52" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf right sing0007" x="137.5" y="52" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf right sing0008" x="150" y="52" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf right sing0009" x="162.5" y="52" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf right sing0010" x="175" y="52" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf right sing0011" x="187.5" y="52" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf right sing0012" x="200" y="52" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf right sing0013" x="212.5" y="52" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf up miss0000" x="225" y="52" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf up miss0001" x="237.5" y="52" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf up miss0002" x="0" y="65" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf up miss0003" x="12.5" y="65" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf up miss0004" x="25" y="65" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf up miss0005" x="37.5" y="65" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf up miss0006" x="50" y="65" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf up miss0007" x="62.5" y="65" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf up miss0008" x="75" y="65" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf up miss0009" x="87.5" y="65" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf up miss0010" x="100" y="65" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf up miss0011" x="112.5" y="65" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf up miss0012" x="125" y="65" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf up miss0013" x="137.5" y="65" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf up sing0000" x="150" y="65" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf up sing0001" x="162.5" y="65" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf up sing0002" x="175" y="65" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf up sing0003" x="187.5" y="65" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf up sing0004" x="200" y="65" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf up sing0005" x="212.5" y="65" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf up sing0006" x="225" y="65" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf up sing0007" x="237.5" y="65" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf up sing0008" x="0" y="78" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf up sing0009" x="12.5" y="78" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf up sing0010" x="25" y="78" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf up sing0011" x="37.5" y="78" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf up sing0012" x="50" y="78" width="12.5" height="13"/>
+	<SubTexture name="sl4sh bf up sing0013" x="62.5" y="78" width="12.5" height="13"/>
+</TextureAtlas>

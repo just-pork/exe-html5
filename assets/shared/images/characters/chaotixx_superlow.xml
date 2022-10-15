@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="chaotix.png">
+<SubTexture name="chaotix gf0000" x="0" y="0" width="81" height="57" frameX="0" frameY="0" frameWidth="81" frameHeight="57" />
+<SubTexture name="chaotix gf0001" x="81" y="0" width="81" height="57" frameX="0" frameY="0" frameWidth="81" frameHeight="57" />
+<SubTexture name="chaotix gf0002" x="162" y="0" width="81" height="57" frameX="0" frameY="0" frameWidth="81" frameHeight="57" />
+<SubTexture name="chaotix gf0003" x="243" y="0" width="81" height="57" frameX="0" frameY="0" frameWidth="81" frameHeight="57" />
+<SubTexture name="chaotix gf0004" x="324" y="0" width="81" height="57" frameX="0" frameY="0" frameWidth="81" frameHeight="57" />
+<SubTexture name="chaotix gf0005" x="0" y="57" width="81" height="57" frameX="0" frameY="0" frameWidth="81" frameHeight="57" />
+<SubTexture name="chaotix gf0006" x="81" y="57" width="81" height="57" frameX="0" frameY="0" frameWidth="81" frameHeight="57" />
+<SubTexture name="chaotix gf0007" x="162" y="57" width="81" height="57" frameX="0" frameY="0" frameWidth="81" frameHeight="57" />
+<SubTexture name="chaotix gf0008" x="243" y="57" width="81" height="57" frameX="0" frameY="0" frameWidth="81" frameHeight="57" />
+<SubTexture name="chaotix gf0009" x="324" y="57" width="81" height="57" frameX="0" frameY="0" frameWidth="81" frameHeight="57" />
+<SubTexture name="chaotix gf0010" x="0" y="114" width="81" height="57" frameX="0" frameY="0" frameWidth="81" frameHeight="57" />
+<SubTexture name="chaotix gf0011" x="81" y="114" width="81" height="57" frameX="0" frameY="0" frameWidth="81" frameHeight="57" />
+<SubTexture name="chaotix gf0012" x="162" y="114" width="81" height="57" frameX="0" frameY="0" frameWidth="81" frameHeight="57" />
+<SubTexture name="chaotix gf0013" x="243" y="114" width="81" height="57" frameX="0" frameY="0" frameWidth="81" frameHeight="57" />
+<SubTexture name="chaotix gf0014" x="324" y="114" width="81" height="57" frameX="0" frameY="0" frameWidth="81" frameHeight="57" />
+<SubTexture name="chaotix gf0015" x="0" y="171" width="81" height="57" frameX="0" frameY="0" frameWidth="81" frameHeight="57" />
+<SubTexture name="chaotix gf0016" x="81" y="171" width="81" height="57" frameX="0" frameY="0" frameWidth="81" frameHeight="57" />
+<SubTexture name="chaotix gf0017" x="162" y="171" width="81" height="57" frameX="0" frameY="0" frameWidth="81" frameHeight="57" />
+<SubTexture name="chaotix gf0018" x="243" y="171" width="81" height="57" frameX="0" frameY="0" frameWidth="81" frameHeight="57" />
+<SubTexture name="chaotix gf0019" x="324" y="171" width="81" height="57" frameX="0" frameY="0" frameWidth="81" frameHeight="57" />
+<SubTexture name="chaotix gf0020" x="0" y="228" width="81" height="57" frameX="0" frameY="0" frameWidth="81" frameHeight="57" />
+<SubTexture name="chaotix gf0021" x="81" y="228" width="81" height="57" frameX="0" frameY="0" frameWidth="81" frameHeight="57" />
+<SubTexture name="chaotix gf0022" x="162" y="228" width="81" height="57" frameX="0" frameY="0" frameWidth="81" frameHeight="57" />
+<SubTexture name="chaotix gf0023" x="243" y="228" width="81" height="57" frameX="0" frameY="0" frameWidth="81" frameHeight="57" />
+<SubTexture name="chaotix gf0024" x="324" y="228" width="81" height="57" frameX="0" frameY="0" frameWidth="81" frameHeight="57" />
+<SubTexture name="chaotix gf0025" x="0" y="285" width="81" height="57" frameX="0" frameY="0" frameWidth="81" frameHeight="57" />
+<SubTexture name="chaotix gf0026" x="81" y="285" width="81" height="57" frameX="0" frameY="0" frameWidth="81" frameHeight="57" />
+<SubTexture name="chaotix gf0027" x="162" y="285" width="81" height="57" frameX="0" frameY="0" frameWidth="81" frameHeight="57" />
+<SubTexture name="chaotix gf0028" x="243" y="285" width="81" height="57" frameX="0" frameY="0" frameWidth="81" frameHeight="57" />
+</TextureAtlas>

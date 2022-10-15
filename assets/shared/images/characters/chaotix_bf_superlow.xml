@@ -1,0 +1,131 @@
+﻿<?xml version="0.25" encoding="utf-8"?>
+<TextureAtlas imagePath="chaotix bf.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="chaotix bf down miss0000" x="0" y="0" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf down miss0001" x="13.25" y="0" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf down miss0002" x="26.5" y="0" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf down miss0003" x="39.75" y="0" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf down miss0004" x="53" y="0" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf down miss0005" x="66.25" y="0" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf down miss0006" x="79.5" y="0" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf down miss0007" x="92.75" y="0" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf down miss0008" x="106" y="0" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf down miss0009" x="119.25" y="0" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf down miss0010" x="132.5" y="0" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf down miss0011" x="145.75" y="0" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf down miss0012" x="159" y="0" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf down miss0013" x="172.25" y="0" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf down sing0000" x="185.5" y="0" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf down sing0001" x="198.75" y="0" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf down sing0002" x="212" y="0" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf down sing0003" x="225.25" y="0" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf down sing0004" x="238.5" y="0" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf down sing0005" x="0" y="16" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf down sing0006" x="13.25" y="16" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf down sing0007" x="26.5" y="16" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf down sing0008" x="39.75" y="16" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf down sing0009" x="53" y="16" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf down sing0010" x="66.25" y="16" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf down sing0011" x="79.5" y="16" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf down sing0012" x="92.75" y="16" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf down sing0013" x="106" y="16" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf idle0000" x="119.25" y="16" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf idle0001" x="132.5" y="16" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf idle0002" x="145.75" y="16" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf idle0003" x="159" y="16" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf idle0004" x="172.25" y="16" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf idle0005" x="185.5" y="16" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf idle0006" x="198.75" y="16" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf idle0007" x="212" y="16" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf idle0008" x="225.25" y="16" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf idle0009" x="238.5" y="16" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf idle0010" x="0" y="32" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf idle0011" x="13.25" y="32" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf idle0012" x="26.5" y="32" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf idle0013" x="39.75" y="32" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf left miss0000" x="53" y="32" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf left miss0001" x="66.25" y="32" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf left miss0002" x="79.5" y="32" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf left miss0003" x="92.75" y="32" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf left miss0004" x="106" y="32" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf left miss0005" x="119.25" y="32" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf left miss0006" x="132.5" y="32" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf left miss0007" x="145.75" y="32" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf left miss0008" x="159" y="32" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf left miss0009" x="172.25" y="32" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf left miss0010" x="185.5" y="32" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf left miss0011" x="198.75" y="32" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf left miss0012" x="212" y="32" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf left miss0013" x="225.25" y="32" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf left sing0000" x="238.5" y="32" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf left sing0001" x="0" y="48" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf left sing0002" x="13.25" y="48" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf left sing0003" x="26.5" y="48" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf left sing0004" x="39.75" y="48" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf left sing0005" x="53" y="48" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf left sing0006" x="66.25" y="48" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf left sing0007" x="79.5" y="48" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf left sing0008" x="92.75" y="48" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf left sing0009" x="106" y="48" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf left sing0010" x="119.25" y="48" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf left sing0011" x="132.5" y="48" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf left sing0012" x="145.75" y="48" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf left sing0013" x="159" y="48" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf right miss0000" x="172.25" y="48" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf right miss0001" x="185.5" y="48" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf right miss0002" x="198.75" y="48" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf right miss0003" x="212" y="48" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf right miss0004" x="225.25" y="48" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf right miss0005" x="238.5" y="48" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf right miss0006" x="0" y="64" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf right miss0007" x="13.25" y="64" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf right miss0008" x="26.5" y="64" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf right miss0009" x="39.75" y="64" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf right miss0010" x="53" y="64" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf right miss0011" x="66.25" y="64" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf right miss0012" x="79.5" y="64" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf right miss0013" x="92.75" y="64" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf right sing0000" x="106" y="64" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf right sing0001" x="119.25" y="64" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf right sing0002" x="132.5" y="64" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf right sing0003" x="145.75" y="64" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf right sing0004" x="159" y="64" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf right sing0005" x="172.25" y="64" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf right sing0006" x="185.5" y="64" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf right sing0007" x="198.75" y="64" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf right sing0008" x="212" y="64" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf right sing0009" x="225.25" y="64" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf right sing0010" x="238.5" y="64" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf right sing0011" x="0" y="80" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf right sing0012" x="13.25" y="80" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf right sing0013" x="26.5" y="80" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf up miss0000" x="39.75" y="80" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf up miss0001" x="53" y="80" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf up miss0002" x="66.25" y="80" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf up miss0003" x="79.5" y="80" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf up miss0004" x="92.75" y="80" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf up miss0005" x="106" y="80" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf up miss0006" x="119.25" y="80" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf up miss0007" x="132.5" y="80" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf up miss0008" x="145.75" y="80" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf up miss0009" x="159" y="80" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf up miss0010" x="172.25" y="80" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf up miss0011" x="185.5" y="80" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf up miss0012" x="198.75" y="80" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf up miss0013" x="212" y="80" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf up sing0000" x="225.25" y="80" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf up sing0001" x="238.5" y="80" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf up sing0002" x="0" y="96" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf up sing0003" x="13.25" y="96" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf up sing0004" x="26.5" y="96" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf up sing0005" x="39.75" y="96" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf up sing0006" x="53" y="96" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf up sing0007" x="66.25" y="96" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf up sing0008" x="79.5" y="96" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf up sing0009" x="92.75" y="96" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf up sing0010" x="106" y="96" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf up sing0011" x="119.25" y="96" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf up sing0012" x="132.5" y="96" width="13.25" height="16"/>
+	<SubTexture name="chaotix bf up sing0013" x="145.75" y="96" width="13.25" height="16"/>
+</TextureAtlas>

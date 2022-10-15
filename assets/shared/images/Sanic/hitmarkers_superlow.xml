@@ -1,0 +1,44 @@
+﻿<?xml version="0.25" encoding="utf-8"?>
+<TextureAtlas imagePath="hitmarkers.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="HitMarkers2" x="640" y="90" width="160" height="90"/>
+	<SubTexture name="HitMarkers3" x="480" y="270" width="160" height="90"/>
+	<SubTexture name="HitMarkers4" x="320" y="450" width="160" height="90"/>
+	<SubTexture name="HitMarkers5" x="640" y="450" width="160" height="90"/>
+	<SubTexture name="HitMarkers6" x="800" y="450" width="160" height="90"/>
+	<SubTexture name="HitMarkers7" x="0" y="540" width="160" height="90"/>
+	<SubTexture name="HitMarkers8" x="160" y="540" width="160" height="90"/>
+	<SubTexture name="HitMarkers9" x="320" y="540" width="160" height="90"/>
+	<SubTexture name="HitMarkers10" x="0" y="0" width="160" height="90"/>
+	<SubTexture name="HitMarkers11" x="160" y="0" width="160" height="90"/>
+	<SubTexture name="HitMarkers12" x="320" y="0" width="160" height="90"/>
+	<SubTexture name="HitMarkers13" x="480" y="0" width="160" height="90"/>
+	<SubTexture name="HitMarkers14" x="640" y="0" width="160" height="90"/>
+	<SubTexture name="HitMarkers15" x="800" y="0" width="160" height="90"/>
+	<SubTexture name="HitMarkers16" x="0" y="90" width="160" height="90"/>
+	<SubTexture name="HitMarkers17" x="160" y="90" width="160" height="90"/>
+	<SubTexture name="HitMarkers18" x="320" y="90" width="160" height="90"/>
+	<SubTexture name="HitMarkers19" x="480" y="90" width="160" height="90"/>
+	<SubTexture name="HitMarkers20" x="800" y="90" width="160" height="90"/>
+	<SubTexture name="HitMarkers21" x="0" y="180" width="160" height="90"/>
+	<SubTexture name="HitMarkers22" x="160" y="180" width="160" height="90"/>
+	<SubTexture name="HitMarkers23" x="320" y="180" width="160" height="90"/>
+	<SubTexture name="HitMarkers24" x="480" y="180" width="160" height="90"/>
+	<SubTexture name="HitMarkers25" x="640" y="180" width="160" height="90"/>
+	<SubTexture name="HitMarkers26" x="800" y="180" width="160" height="90"/>
+	<SubTexture name="HitMarkers27" x="0" y="270" width="160" height="90"/>
+	<SubTexture name="HitMarkers28" x="160" y="270" width="160" height="90"/>
+	<SubTexture name="HitMarkers29" x="320" y="270" width="160" height="90"/>
+	<SubTexture name="HitMarkers30" x="640" y="270" width="160" height="90"/>
+	<SubTexture name="HitMarkers31" x="800" y="270" width="160" height="90"/>
+	<SubTexture name="HitMarkers32" x="0" y="360" width="160" height="90"/>
+	<SubTexture name="HitMarkers33" x="160" y="360" width="160" height="90"/>
+	<SubTexture name="HitMarkers34" x="320" y="360" width="160" height="90"/>
+	<SubTexture name="HitMarkers35" x="480" y="360" width="160" height="90"/>
+	<SubTexture name="HitMarkers36" x="640" y="360" width="160" height="90"/>
+	<SubTexture name="HitMarkers37" x="800" y="360" width="160" height="90"/>
+	<SubTexture name="HitMarkers38" x="0" y="450" width="160" height="90"/>
+	<SubTexture name="HitMarkers39" x="160" y="450" width="160" height="90"/>
+	<SubTexture name="HitMarkers40" x="480" y="450" width="160" height="90"/>
+</TextureAtlas>

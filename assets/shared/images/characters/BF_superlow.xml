@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BF.png"><SubTexture name="BF idle dance0000" x="0" y="0" width="10.5" height="11.5" frameX="0" frameY="0" frameWidth="10.5" frameHeight="11.5" />
+<SubTexture name="BF idle dance0001" x="10.5" y="0" width="10.5" height="11.5" frameX="0" frameY="0" frameWidth="10.5" frameHeight="11.5" />
+<SubTexture name="BF idle dance0002" x="21" y="0" width="10.5" height="11.5" frameX="0" frameY="0" frameWidth="10.5" frameHeight="11.5" />
+<SubTexture name="BF idle dance0003" x="31.5" y="0" width="10.5" height="11.5" frameX="0" frameY="0" frameWidth="10.5" frameHeight="11.5" />
+<SubTexture name="BF idle dance0004" x="42" y="0" width="10.5" height="11.5" frameX="0" frameY="0" frameWidth="10.5" frameHeight="11.5" />
+<SubTexture name="BF NOTE DOWN0000" x="52.5" y="0" width="10.5" height="11.5" frameX="0" frameY="0" frameWidth="10.5" frameHeight="11.5" />
+<SubTexture name="BF NOTE DOWN0001" x="0" y="11.5" width="10.5" height="11.5" frameX="0" frameY="0" frameWidth="10.5" frameHeight="11.5" />
+<SubTexture name="BF NOTE LEFT0000" x="10.5" y="11.5" width="10.5" height="11.5" frameX="0" frameY="0" frameWidth="10.5" frameHeight="11.5" />
+<SubTexture name="BF NOTE LEFT0001" x="21" y="11.5" width="10.5" height="11.5" frameX="0" frameY="0" frameWidth="10.5" frameHeight="11.5" />
+<SubTexture name="BF NOTE UP0000" x="31.5" y="11.5" width="10.5" height="11.5" frameX="0" frameY="0" frameWidth="10.5" frameHeight="11.5" />
+<SubTexture name="BF NOTE UP0001" x="42" y="11.5" width="10.5" height="11.5" frameX="0" frameY="0" frameWidth="10.5" frameHeight="11.5" />
+<SubTexture name="BF NOTE RIGHT0000" x="52.5" y="11.5" width="10.5" height="11.5" frameX="0" frameY="0" frameWidth="10.5" frameHeight="11.5" />
+<SubTexture name="BF NOTE RIGHT0001" x="0" y="23" width="10.5" height="11.5" frameX="0" frameY="0" frameWidth="10.5" frameHeight="11.5" />
+<SubTexture name="BF NOTE DOWN MISS0000" x="10.5" y="23" width="10.5" height="11.5" frameX="0" frameY="0" frameWidth="10.5" frameHeight="11.5" />
+<SubTexture name="BF NOTE DOWN MISS0001" x="21" y="23" width="10.5" height="11.5" frameX="0" frameY="0" frameWidth="10.5" frameHeight="11.5" />
+<SubTexture name="BF NOTE LEFT MISS0000" x="31.5" y="23" width="10.5" height="11.5" frameX="0" frameY="0" frameWidth="10.5" frameHeight="11.5" />
+<SubTexture name="BF NOTE LEFT MISS0001" x="42" y="23" width="10.5" height="11.5" frameX="0" frameY="0" frameWidth="10.5" frameHeight="11.5" />
+<SubTexture name="BF NOTE RIGHT MISS0000" x="52.5" y="23" width="10.5" height="11.5" frameX="0" frameY="0" frameWidth="10.5" frameHeight="11.5" />
+<SubTexture name="BF NOTE RIGHT MISS0001" x="0" y="34.5" width="10.5" height="11.5" frameX="0" frameY="0" frameWidth="10.5" frameHeight="11.5" />
+<SubTexture name="BF NOTE UP MISS0000" x="10.5" y="34.5" width="10.5" height="11.5" frameX="0" frameY="0" frameWidth="10.5" frameHeight="11.5" />
+<SubTexture name="BF NOTE UP MISS0001" x="21" y="34.5" width="10.5" height="11.5" frameX="0" frameY="0" frameWidth="10.5" frameHeight="11.5" />
+<SubTexture name="BF dies0000" x="31.5" y="34.5" width="10.75" height="10.75" frameX="0" frameY="0" frameWidth="10.75" frameHeight="10.75" />
+<SubTexture name="BF dies0001" x="42.25" y="34.5" width="10.75" height="10.75" frameX="0" frameY="0" frameWidth="10.75" frameHeight="10.75" />
+<SubTexture name="BF dies0002" x="53" y="34.5" width="10.75" height="10.75" frameX="0" frameY="0" frameWidth="10.75" frameHeight="10.75" />
+<SubTexture name="BF dies0003" x="0" y="46" width="10.75" height="10.75" frameX="0" frameY="0" frameWidth="10.75" frameHeight="10.75" />
+<SubTexture name="BF dies0004" x="10.75" y="46" width="10.75" height="10.75" frameX="0" frameY="0" frameWidth="10.75" frameHeight="10.75" />
+<SubTexture name="BF dies0005" x="21.5" y="46" width="10.75" height="10.75" frameX="0" frameY="0" frameWidth="10.75" frameHeight="10.75" />
+<SubTexture name="BF dies0006" x="32.25" y="46" width="10.75" height="10.75" frameX="0" frameY="0" frameWidth="10.75" frameHeight="10.75" />
+<SubTexture name="BF dies0007" x="43" y="46" width="10.75" height="10.75" frameX="0" frameY="0" frameWidth="10.75" frameHeight="10.75" />
+<SubTexture name="BF dies0008" x="53.75" y="46" width="10.75" height="10.75" frameX="0" frameY="0" frameWidth="10.75" frameHeight="10.75" />
+<SubTexture name="BF dies0009" x="0" y="56.75" width="10.75" height="10.75" frameX="0" frameY="0" frameWidth="10.75" frameHeight="10.75" />
+<SubTexture name="BF dies0010" x="10.75" y="56.75" width="10.75" height="10.75" frameX="0" frameY="0" frameWidth="10.75" frameHeight="10.75" />
+<SubTexture name="BF dies0011" x="21.5" y="56.75" width="10.75" height="10.75" frameX="0" frameY="0" frameWidth="10.75" frameHeight="10.75" />
+<SubTexture name="BF dies0012" x="32.25" y="56.75" width="10.75" height="10.75" frameX="0" frameY="0" frameWidth="10.75" frameHeight="10.75" />
+<SubTexture name="BF dies0013" x="43" y="56.75" width="10.75" height="10.75" frameX="0" frameY="0" frameWidth="10.75" frameHeight="10.75" />
+<SubTexture name="BF dies0014" x="53.75" y="56.75" width="10.75" height="10.75" frameX="0" frameY="0" frameWidth="10.75" frameHeight="10.75" />
+<SubTexture name="BF dies0015" x="0" y="67.5" width="10.75" height="10.75" frameX="0" frameY="0" frameWidth="10.75" frameHeight="10.75" />
+<SubTexture name="BF Dead Loop0000" x="10.75" y="67.5" width="10.75" height="10.75" frameX="0" frameY="0" frameWidth="10.75" frameHeight="10.75" />
+<SubTexture name="BF Dead Loop0001" x="21.5" y="67.5" width="10.75" height="10.75" frameX="0" frameY="0" frameWidth="10.75" frameHeight="10.75" />
+<SubTexture name="BF Dead Loop0002" x="32.25" y="67.5" width="10.75" height="10.75" frameX="0" frameY="0" frameWidth="10.75" frameHeight="10.75" />
+<SubTexture name="BF Dead Loop0003" x="43" y="67.5" width="10.75" height="10.75" frameX="0" frameY="0" frameWidth="10.75" frameHeight="10.75" />
+<SubTexture name="BF Dead Loop0004" x="53.75" y="67.5" width="10.75" height="10.75" frameX="0" frameY="0" frameWidth="10.75" frameHeight="10.75" />
+<SubTexture name="BF Dead Loop0005" x="0" y="78.25" width="10.75" height="10.75" frameX="0" frameY="0" frameWidth="10.75" frameHeight="10.75" />
+</TextureAtlas>

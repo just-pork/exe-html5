@@ -1,0 +1,21 @@
+﻿<?xml version="0.5" encoding="utf-8"?>
+<TextureAtlas imagePath="statix.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="statixx0000" x="5" y="5" width="250" height="187.5"/>
+	<SubTexture name="statixx0001" x="5" y="5" width="250" height="187.5"/>
+	<SubTexture name="statixx0002" x="255" y="5" width="250" height="187.5"/>
+	<SubTexture name="statixx0003" x="255" y="5" width="250" height="187.5"/>
+	<SubTexture name="statixx0004" x="505" y="5" width="250" height="187.5"/>
+	<SubTexture name="statixx0005" x="505" y="5" width="250" height="187.5"/>
+	<SubTexture name="statixx0006" x="755" y="5" width="250" height="187.5"/>
+	<SubTexture name="statixx0007" x="755" y="5" width="250" height="187.5"/>
+	<SubTexture name="statixx0008" x="5" y="192.5" width="250" height="187.5"/>
+	<SubTexture name="statixx0009" x="5" y="192.5" width="250" height="187.5"/>
+	<SubTexture name="statixx0010" x="255" y="192.5" width="250" height="187.5"/>
+	<SubTexture name="statixx0011" x="255" y="192.5" width="250" height="187.5"/>
+	<SubTexture name="statixx0012" x="505" y="192.5" width="250" height="187.5"/>
+	<SubTexture name="statixx0013" x="505" y="192.5" width="250" height="187.5"/>
+	<SubTexture name="statixx0014" x="755" y="192.5" width="250" height="187.5"/>
+	<SubTexture name="statixx0015" x="755" y="192.5" width="250" height="187.5"/>
+</TextureAtlas>

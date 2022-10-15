@@ -1,0 +1,8 @@
+﻿<?xml version="0.25" encoding="utf-8"?>
+<TextureAtlas imagePath="SonichuBG.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle0000" x="572.25" y="0" width="283.25" height="187.75" frameX="-3.5" frameY="0" frameWidth="286.75" frameHeight="187.75"/>
+	<SubTexture name="Idle0001" x="286.75" y="0" width="285.5" height="187.75" frameX="-1.25" frameY="0" frameWidth="286.75" frameHeight="187.75"/>
+	<SubTexture name="Idle0002" x="0" y="0" width="286.75" height="187.75"/>
+</TextureAtlas>

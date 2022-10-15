@@ -1,0 +1,50 @@
+﻿<?xml version="0.25" encoding="utf-8"?>
+<TextureAtlas imagePath="NoScope.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="NoScope0" x="0" y="0" width="160" height="90"/>
+	<SubTexture name="NoScope1" x="0" y="0" width="160" height="90"/>
+	<SubTexture name="NoScope10" x="160" y="0" width="160" height="90"/>
+	<SubTexture name="NoScope11" x="320" y="0" width="160" height="90"/>
+	<SubTexture name="NoScope12" x="480" y="0" width="160" height="90"/>
+	<SubTexture name="NoScope13" x="640" y="0" width="160" height="90"/>
+	<SubTexture name="NoScope14" x="800" y="0" width="160" height="90"/>
+	<SubTexture name="NoScope15" x="0" y="90" width="160" height="90"/>
+	<SubTexture name="NoScope16" x="160" y="90" width="160" height="90"/>
+	<SubTexture name="NoScope17" x="320" y="90" width="160" height="90"/>
+	<SubTexture name="NoScope18" x="480" y="90" width="160" height="90"/>
+	<SubTexture name="NoScope19" x="640" y="90" width="160" height="90"/>
+	<SubTexture name="NoScope2" x="800" y="90" width="160" height="90"/>
+	<SubTexture name="NoScope20" x="0" y="180" width="160" height="90"/>
+	<SubTexture name="NoScope21" x="160" y="180" width="160" height="90"/>
+	<SubTexture name="NoScope22" x="320" y="180" width="160" height="90"/>
+	<SubTexture name="NoScope23" x="320" y="180" width="160" height="90"/>
+	<SubTexture name="NoScope24" x="480" y="180" width="160" height="90"/>
+	<SubTexture name="NoScope25" x="320" y="180" width="160" height="90"/>
+	<SubTexture name="NoScope26" x="640" y="180" width="160" height="90"/>
+	<SubTexture name="NoScope27" x="800" y="180" width="160" height="90"/>
+	<SubTexture name="NoScope28" x="0" y="270" width="160" height="90"/>
+	<SubTexture name="NoScope29" x="160" y="270" width="160" height="90"/>
+	<SubTexture name="NoScope3" x="320" y="270" width="160" height="90"/>
+	<SubTexture name="NoScope30" x="480" y="270" width="160" height="90"/>
+	<SubTexture name="NoScope31" x="640" y="270" width="160" height="90"/>
+	<SubTexture name="NoScope32" x="800" y="270" width="160" height="90"/>
+	<SubTexture name="NoScope33" x="0" y="360" width="160" height="90"/>
+	<SubTexture name="NoScope34" x="160" y="360" width="160" height="90"/>
+	<SubTexture name="NoScope35" x="320" y="360" width="160" height="90"/>
+	<SubTexture name="NoScope36" x="480" y="360" width="160" height="90"/>
+	<SubTexture name="NoScope37" x="640" y="360" width="160" height="90"/>
+	<SubTexture name="NoScope38" x="800" y="360" width="160" height="90"/>
+	<SubTexture name="NoScope39" x="0" y="450" width="160" height="90"/>
+	<SubTexture name="NoScope4" x="160" y="450" width="160" height="90"/>
+	<SubTexture name="NoScope40" x="320" y="450" width="160" height="90"/>
+	<SubTexture name="NoScope41" x="480" y="450" width="160" height="90"/>
+	<SubTexture name="NoScope42" x="640" y="450" width="160" height="90"/>
+	<SubTexture name="NoScope43" x="800" y="450" width="160" height="90"/>
+	<SubTexture name="NoScope44" x="0" y="540" width="160" height="90"/>
+	<SubTexture name="NoScope5" x="160" y="540" width="160" height="90"/>
+	<SubTexture name="NoScope6" x="320" y="540" width="160" height="90"/>
+	<SubTexture name="NoScope7" x="480" y="540" width="160" height="90"/>
+	<SubTexture name="NoScope8" x="640" y="540" width="160" height="90"/>
+	<SubTexture name="NoScope9" x="800" y="540" width="160" height="90"/>
+</TextureAtlas>

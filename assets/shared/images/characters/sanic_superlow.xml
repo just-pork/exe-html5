@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sanic.png"><SubTexture name="sanic idle0000" x="0" y="0" width="513" height="513" frameX="0" frameY="0" frameWidth="513" frameHeight="513" />
+<SubTexture name="sanic idle0001" x="513" y="0" width="513" height="513" frameX="0" frameY="0" frameWidth="513" frameHeight="513" />
+<SubTexture name="sanic idle0002" x="1026" y="0" width="513" height="513" frameX="0" frameY="0" frameWidth="513" frameHeight="513" />
+<SubTexture name="sanic idle0003" x="0" y="513" width="513" height="513" frameX="0" frameY="0" frameWidth="513" frameHeight="513" />
+<SubTexture name="sanic down0000" x="513" y="513" width="513" height="513" frameX="0" frameY="0" frameWidth="513" frameHeight="513" />
+<SubTexture name="sanic down0001" x="1026" y="513" width="513" height="513" frameX="0" frameY="0" frameWidth="513" frameHeight="513" />
+<SubTexture name="sanic down0002" x="0" y="1026" width="513" height="513" frameX="0" frameY="0" frameWidth="513" frameHeight="513" />
+<SubTexture name="sanic down0003" x="513" y="1026" width="513" height="513" frameX="0" frameY="0" frameWidth="513" frameHeight="513" />
+<SubTexture name="sanic down0004" x="1026" y="1026" width="513" height="513" frameX="0" frameY="0" frameWidth="513" frameHeight="513" />
+<SubTexture name="sanic left0000" x="0" y="1539" width="513" height="513" frameX="0" frameY="0" frameWidth="513" frameHeight="513" />
+<SubTexture name="sanic left0001" x="513" y="1539" width="513" height="513" frameX="0" frameY="0" frameWidth="513" frameHeight="513" />
+<SubTexture name="sanic right0000" x="1026" y="1539" width="513" height="513" frameX="0" frameY="0" frameWidth="513" frameHeight="513" />
+<SubTexture name="sanic right0001" x="0" y="2052" width="513" height="513" frameX="0" frameY="0" frameWidth="513" frameHeight="513" />
+<SubTexture name="sanic up0000" x="513" y="2052" width="513" height="513" frameX="0" frameY="0" frameWidth="513" frameHeight="513" />
+<SubTexture name="sanic up0001" x="1026" y="2052" width="513" height="513" frameX="0" frameY="0" frameWidth="513" frameHeight="513" />
+</TextureAtlas>

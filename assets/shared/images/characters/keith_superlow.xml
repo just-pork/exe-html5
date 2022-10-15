@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="keith.png">
+<SubTexture name="Coldsteel meme BF down0000" x="0" y="0" width="113" height="112.75" frameX="0" frameY="0" frameWidth="113" frameHeight="112.75" />
+<SubTexture name="Coldsteel meme BF down0001" x="113" y="0" width="113" height="112.75" frameX="0" frameY="0" frameWidth="113" frameHeight="112.75" />
+<SubTexture name="Coldsteel meme BF idle0000" x="226" y="0" width="113" height="112.75" frameX="0" frameY="0" frameWidth="113" frameHeight="112.75" />
+<SubTexture name="Coldsteel meme BF idle0001" x="339" y="0" width="113" height="112.75" frameX="0" frameY="0" frameWidth="113" frameHeight="112.75" />
+<SubTexture name="Coldsteel meme BF left0000" x="0" y="112.75" width="113" height="112.75" frameX="0" frameY="0" frameWidth="113" frameHeight="112.75" />
+<SubTexture name="Coldsteel meme BF left0001" x="113" y="112.75" width="113" height="112.75" frameX="0" frameY="0" frameWidth="113" frameHeight="112.75" />
+<SubTexture name="Coldsteel meme BF right0000" x="226" y="112.75" width="113" height="112.75" frameX="0" frameY="0" frameWidth="113" frameHeight="112.75" />
+<SubTexture name="Coldsteel meme BF right0001" x="339" y="112.75" width="113" height="112.75" frameX="0" frameY="0" frameWidth="113" frameHeight="112.75" />
+<SubTexture name="Coldsteel meme BF up0000" x="0" y="225.5" width="113" height="112.75" frameX="0" frameY="0" frameWidth="113" frameHeight="112.75" />
+<SubTexture name="Coldsteel meme BF up0001" x="113" y="225.5" width="113" height="112.75" frameX="0" frameY="0" frameWidth="113" frameHeight="112.75" />
+<SubTexture name="Coldsteel meme BF miss down0000" x="226" y="225.5" width="113" height="112.75" frameX="0" frameY="0" frameWidth="113" frameHeight="112.75" />
+<SubTexture name="Coldsteel meme BF miss down0001" x="339" y="225.5" width="113" height="112.75" frameX="0" frameY="0" frameWidth="113" frameHeight="112.75" />
+<SubTexture name="Coldsteel meme BF miss left0000" x="0" y="338.25" width="113" height="112.75" frameX="0" frameY="0" frameWidth="113" frameHeight="112.75" />
+<SubTexture name="Coldsteel meme BF miss left0001" x="113" y="338.25" width="113" height="112.75" frameX="0" frameY="0" frameWidth="113" frameHeight="112.75" />
+<SubTexture name="Coldsteel meme BF miss left0002" x="226" y="338.25" width="113" height="112.75" frameX="0" frameY="0" frameWidth="113" frameHeight="112.75" />
+<SubTexture name="Coldsteel meme BF miss right0000" x="339" y="338.25" width="113" height="112.75" frameX="0" frameY="0" frameWidth="113" frameHeight="112.75" />
+<SubTexture name="Coldsteel meme BF miss right0001" x="0" y="451" width="113" height="112.75" frameX="0" frameY="0" frameWidth="113" frameHeight="112.75" />
+<SubTexture name="Coldsteel meme BF miss right0002" x="113" y="451" width="113" height="112.75" frameX="0" frameY="0" frameWidth="113" frameHeight="112.75" />
+<SubTexture name="Coldsteel meme BF miss up0000" x="226" y="451" width="113" height="112.75" frameX="0" frameY="0" frameWidth="113" frameHeight="112.75" />
+<SubTexture name="Coldsteel meme BF miss up0001" x="339" y="451" width="113" height="112.75" frameX="0" frameY="0" frameWidth="113" frameHeight="112.75" />
+</TextureAtlas>

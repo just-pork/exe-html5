@@ -1,0 +1,63 @@
+﻿<?xml version="0.5" encoding="utf-8"?>
+<TextureAtlas imagePath="Beast_Chaotix_sheet.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Beast down0000" x="0" y="0" width="76" height="65.5"/>
+	<SubTexture name="Beast down0001" x="0" y="0" width="76" height="65.5"/>
+	<SubTexture name="Beast down0002" x="76" y="0" width="76" height="65.5"/>
+	<SubTexture name="Beast down0003" x="76" y="0" width="76" height="65.5"/>
+	<SubTexture name="Beast down0004" x="152" y="0" width="76" height="65.5"/>
+	<SubTexture name="Beast down0005" x="152" y="0" width="76" height="65.5"/>
+	<SubTexture name="Beast down0006" x="228" y="0" width="76" height="65.5"/>
+	<SubTexture name="Beast down0007" x="228" y="0" width="76" height="65.5"/>
+	<SubTexture name="Beast down0008" x="304" y="0" width="76" height="65.5"/>
+	<SubTexture name="Beast down0009" x="304" y="0" width="76" height="65.5"/>
+	<SubTexture name="Beast idle0000" x="380" y="0" width="76" height="65.5"/>
+	<SubTexture name="Beast idle0001" x="380" y="0" width="76" height="65.5"/>
+	<SubTexture name="Beast idle0002" x="0" y="65.5" width="76" height="65.5"/>
+	<SubTexture name="Beast idle0003" x="0" y="65.5" width="76" height="65.5"/>
+	<SubTexture name="Beast idle0004" x="76" y="65.5" width="76" height="65.5"/>
+	<SubTexture name="Beast idle0005" x="76" y="65.5" width="76" height="65.5"/>
+	<SubTexture name="Beast idle0006" x="152" y="65.5" width="76" height="65.5"/>
+	<SubTexture name="Beast idle0007" x="152" y="65.5" width="76" height="65.5"/>
+	<SubTexture name="Beast idle0008" x="228" y="65.5" width="76" height="65.5"/>
+	<SubTexture name="Beast idle0009" x="228" y="65.5" width="76" height="65.5"/>
+	<SubTexture name="Beast idle0010" x="304" y="65.5" width="76" height="65.5"/>
+	<SubTexture name="Beast idle0011" x="304" y="65.5" width="76" height="65.5"/>
+	<SubTexture name="Beast idle0012" x="380" y="65.5" width="76" height="65.5"/>
+	<SubTexture name="Beast idle0013" x="380" y="65.5" width="76" height="65.5"/>
+	<SubTexture name="Beast idle0014" x="0" y="131" width="76" height="65.5"/>
+	<SubTexture name="Beast idle0015" x="0" y="131" width="76" height="65.5"/>
+	<SubTexture name="Beast idle0016" x="76" y="131" width="76" height="65.5"/>
+	<SubTexture name="Beast idle0017" x="76" y="131" width="76" height="65.5"/>
+	<SubTexture name="Beast left0000" x="152" y="131" width="76" height="65.5"/>
+	<SubTexture name="Beast left0001" x="152" y="131" width="76" height="65.5"/>
+	<SubTexture name="Beast left0002" x="228" y="131" width="76" height="65.5"/>
+	<SubTexture name="Beast left0003" x="228" y="131" width="76" height="65.5"/>
+	<SubTexture name="Beast left0004" x="304" y="131" width="76" height="65.5"/>
+	<SubTexture name="Beast left0005" x="304" y="131" width="76" height="65.5"/>
+	<SubTexture name="Beast left0006" x="380" y="131" width="76" height="65.5"/>
+	<SubTexture name="Beast left0007" x="380" y="131" width="76" height="65.5"/>
+	<SubTexture name="Beast left0008" x="0" y="196.5" width="76" height="65.5"/>
+	<SubTexture name="Beast left0009" x="0" y="196.5" width="76" height="65.5"/>
+	<SubTexture name="Beast right0000" x="76" y="196.5" width="76" height="65.5"/>
+	<SubTexture name="Beast right0001" x="76" y="196.5" width="76" height="65.5"/>
+	<SubTexture name="Beast right0002" x="152" y="196.5" width="76" height="65.5"/>
+	<SubTexture name="Beast right0003" x="152" y="196.5" width="76" height="65.5"/>
+	<SubTexture name="Beast right0004" x="228" y="196.5" width="76" height="65.5"/>
+	<SubTexture name="Beast right0005" x="228" y="196.5" width="76" height="65.5"/>
+	<SubTexture name="Beast right0006" x="304" y="196.5" width="76" height="65.5"/>
+	<SubTexture name="Beast right0007" x="304" y="196.5" width="76" height="65.5"/>
+	<SubTexture name="Beast right0008" x="380" y="196.5" width="76" height="65.5"/>
+	<SubTexture name="Beast right0009" x="380" y="196.5" width="76" height="65.5"/>
+	<SubTexture name="Beast up0000" x="0" y="262" width="76" height="65.5"/>
+	<SubTexture name="Beast up0001" x="0" y="262" width="76" height="65.5"/>
+	<SubTexture name="Beast up0002" x="76" y="262" width="76" height="65.5"/>
+	<SubTexture name="Beast up0003" x="76" y="262" width="76" height="65.5"/>
+	<SubTexture name="Beast up0004" x="152" y="262" width="76" height="65.5"/>
+	<SubTexture name="Beast up0005" x="152" y="262" width="76" height="65.5"/>
+	<SubTexture name="Beast up0006" x="228" y="262" width="76" height="65.5"/>
+	<SubTexture name="Beast up0007" x="228" y="262" width="76" height="65.5"/>
+	<SubTexture name="Beast up0008" x="304" y="262" width="76" height="65.5"/>
+	<SubTexture name="Beast up0009" x="304" y="262" width="76" height="65.5"/>
+</TextureAtlas>
