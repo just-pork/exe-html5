@@ -4,7 +4,7 @@
 	
 	<meta charset="utf-8">
 	
-	<title>Funkin on a Chromebook</title>
+	<title>Friday Night Funkin': Psych Engine </title>
 	
 	<meta id="viewport" name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 	<meta name="apple-mobile-web-app-capable" content="yes">
@@ -15,6 +15,13 @@
 	
 	<script type="text/javascript" src="./PsychEngine.js"></script>
 	
+	<script>
+		window.addEventListener ("touchmove", function (event) { event.preventDefault (); }, { capture: false, passive: false });
+		if (typeof window.devicePixelRatio != 'undefined' && window.devicePixelRatio > 2) {
+			var meta = document.getElementById ("viewport");
+			meta.setAttribute ('content', 'width=device-width, initial-scale=' + (2 / window.devicePixelRatio) + ', user-scalable=no');
+		}
+	</script>
 	
 	<style>
 		html,body { margin: 0; padding: 0; height: 100%; overflow: hidden; }
@@ -99,9 +106,8 @@
 			font-weight: normal;
 			font-style: normal;
 		}
-
+		
 	</style>
-	
 	
 </head>
 <body>
@@ -116,3 +122,4 @@
 	
 </body>
 </html>
+
