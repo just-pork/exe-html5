@@ -1,0 +1,50 @@
+{
+	"storyName": "Sonic.exe 2.0 songs",
+	"difficulties": "Hard, Recharted",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"chaos",
+			"fleetway",
+			[
+				254,
+				209,
+				0
+			]
+		],
+		[
+			"faker",
+			"faker",
+			[
+				49,
+				24,
+				167
+			]
+		],
+		[
+			"black-sun",
+			"faker-exe",
+			[
+				49,
+				24,
+				167
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

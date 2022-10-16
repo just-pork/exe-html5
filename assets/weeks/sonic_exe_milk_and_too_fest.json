@@ -1,0 +1,40 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "hard, old, old-recharted",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"milk",
+			"sunky",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"too fest",
+			"sanic",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekName": "Custom Week"
+}

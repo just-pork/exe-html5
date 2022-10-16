@@ -1,0 +1,25 @@
+{
+	"songs": [
+		["Prey", "furnace", [60, 83, 47]],
+		["Relax", "needlemouse", [60, 83, 47]],
+		["Round a Bout", "needlemouse", [60, 83, 47]],
+		["Shocker", "gf", [60, 83, 47]],
+		["Substantial", "xterion", [60, 83, 47]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "stage",
+
+	"storyName": "",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"difficulties": "Hard",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

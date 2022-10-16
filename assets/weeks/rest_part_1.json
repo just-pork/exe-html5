@@ -1,0 +1,43 @@
+{
+	"songs": [
+		["b4cksl4sh", "sl4sh-pixel", [60, 83, 47]],
+		["Bloody Stream", "mom", [60, 83, 47]],
+		["Burning", "faker", [60, 83, 47]],
+		["Confronting", "mom", [60, 83, 47]],
+		["Cool Party", "sunky", [60, 83, 47]],
+		["Digitalized", "xterion", [60, 83, 47]],
+		["Execution", "soylent", [60, 83, 47]],
+		["Fatality", "fatal-sonic", [60, 83, 47]],
+		["Fate", "lord", [60, 83, 47]],
+		["Fight or Flight", "starved", [60, 83, 47]],
+		["Forestall Desire", "requital", [60, 83, 47]],
+		["Goddess", "curse-pissbaby", [60, 83, 47]],
+		["Godspeed", "parents", [60, 83, 47]],
+		["Gotta Go", "parents", [60, 83, 47]],
+		["Hedge", "hog", [60, 83, 47]],
+		["Hellbent", "soylent", [60, 83, 47]],
+		["Hollow", "bf-pixel", [60, 83, 47]],
+		["Iron Forest", "bf-old", [60, 83, 47]],
+		["Luther", "luther", [60, 83, 47]],
+		["Malediction", "curse-happy", [60, 83, 47]],
+		["Mania", "tails-secret", [60, 83, 47]],
+		["Manual Blast", "hog", [60, 83, 47]],
+		["Perdition", "dad", [60, 83, 47]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "stage",
+
+	"storyName": "",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"difficulties": "Hard",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}
