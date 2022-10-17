@@ -14,7 +14,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				4,
+				5,
 				-6
 			],
 			"anim": "singLEFT",
@@ -25,7 +25,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				-22,
+				-10,
 				-50
 			],
 			"anim": "singDOWN",
@@ -36,7 +36,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				-41,
+				-29,
 				27
 			],
 			"anim": "singUP",
@@ -48,7 +48,7 @@
 			"loop": false,
 			"offsets": [
 				-48,
-				-5
+				-7
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
@@ -58,7 +58,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				3,
+				7,
 				19
 			],
 			"anim": "singLEFTmiss",
@@ -69,7 +69,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				-25,
+				-15,
 				-19
 			],
 			"anim": "singDOWNmiss",
@@ -80,7 +80,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				-46,
+				-36,
 				27
 			],
 			"anim": "singUPmiss",
@@ -205,11 +205,11 @@
 		0,
 		350
 	],
-	"healthicon": "bf-majin",
+	"healthicon": "bf",
 	"flip_x": true,
 	"healthbar_colors": [
-		0,
-		14,
+		49,
+		116,
 		209
 	],
 	"camera_position": [

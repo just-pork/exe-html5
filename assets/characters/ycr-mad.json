@@ -3,108 +3,90 @@
 		{
 			"loop": false,
 			"offsets": [
-				18,
-				-35
-			],
-			"anim": "laugh",
-			"fps": 24,
-			"name": "laugh_Instance",
-			"indices": [
-				1,
-				2,
-				3,
-				4,
-				5,
-				6
-			]
-		},
-		{
-			"offsets": [
 				360,
 				7
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "scream",
-			"indices": [],
-			"name": "scream"
+			"fps": 24,
+			"name": "scream",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				18,
 				-35
 			],
-			"anim": "singDOWN-alt",
+			"loop": false,
 			"fps": 24,
-			"name": "laugh",
-			"indices": []
+			"anim": "laugh",
+			"indices": [],
+			"name": "laugh"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				192,
 				32
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 38,
-			"name": "mad_left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "mad_left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-61,
 				238
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 42,
-			"name": "mad_up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "mad_up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-20,
 				-26
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 40,
-			"name": "mad_down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "mad_down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-26,
 				0
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 35,
-			"name": "mad_right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "mad_right"
 		},
 		{
-			"loop": true,
 			"offsets": [
 				-18,
 				67
 			],
-			"anim": "idle",
+			"loop": true,
 			"fps": 26,
-			"name": "mad_idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "mad_idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				170,
 				20
 			],
-			"anim": "die",
+			"loop": false,
 			"fps": 24,
-			"name": "just_die",
-			"indices": []
+			"anim": "die",
+			"indices": [],
+			"name": "just_die"
 		}
 	],
 	"no_antialiasing": false,

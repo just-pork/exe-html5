@@ -3,40 +3,12 @@
 		{
 			"loop": false,
 			"offsets": [
-				62,
-				-263
-			],
-			"anim": "laugh",
-			"fps": 24,
-			"name": "Beast_LAUGH",
-			"indices": [
-				0,
-				1,
-				2,
-				3,
-				4,
-				5,
-				6,
-				7,
-				8,
-				9,
-				10,
-				11,
-				12,
-				13,
-				14,
-				15
-			]
-		},
-		{
-			"loop": false,
-			"offsets": [
-				84,
-				-50
+				674,
+				150
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "Knux Idle",
+			"name": "knuckles idle",
 			"indices": [
 				0,
 				1,
@@ -57,132 +29,64 @@
 		{
 			"loop": false,
 			"offsets": [
-				67,
-				-1
-			],
-			"anim": "singUP",
-			"fps": 24,
-			"name": "Knux Up",
-			"indices": [
-				0,
-				1,
-				2,
-				3,
-				4,
-				5,
-				6,
-				7,
-				8,
-				9,
-				10,
-				11,
-				12,
-				13,
-				14,
-				15
-			]
-		},
-		{
-			"loop": false,
-			"offsets": [
-				130,
-				-151
+				670,
+				117
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "Knux Down",
-			"indices": [
-				0,
-				1,
-				2,
-				3,
-				4,
-				5,
-				6,
-				7,
-				8,
-				9,
-				10,
-				11,
-				12,
-				13,
-				14,
-				15
-			]
+			"name": "knuckles down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				267,
-				-120
+				672,
+				149
 			],
-			"indices": [
-				0,
-				1,
-				2,
-				3,
-				4,
-				5,
-				6,
-				7,
-				8,
-				9,
-				10,
-				11,
-				12,
-				13,
-				14,
-				15
-			],
+			"anim": "singUP",
 			"fps": 24,
+			"name": "knuckles up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				737,
+				150
+			],
 			"anim": "singLEFT",
-			"loop": false,
-			"name": "Knux Right"
+			"fps": 24,
+			"name": "knuckles left",
+			"indices": []
 		},
 		{
-			"offsets": [
-				54,
-				-119
-			],
-			"indices": [
-				0,
-				1,
-				2,
-				3,
-				4,
-				5,
-				6,
-				7,
-				8,
-				9,
-				10,
-				11,
-				12,
-				13,
-				14,
-				15
-			],
-			"fps": 24,
-			"anim": "singRIGHT",
 			"loop": false,
-			"name": "Knux Left"
+			"offsets": [
+				795,
+				153
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "knuckles right",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/KnucklesEXE",
+	"image": "characters/fuckls",
 	"position": [
-		730,
+		1100,
 		110
 	],
 	"healthicon": "knuckles",
-	"flip_x": true,
+	"flip_x": false,
 	"healthbar_colors": [
 		103,
 		0,
 		0
 	],
 	"camera_position": [
-		-510,
-		200
+		-1280,
+		10
 	],
 	"sing_duration": 4,
 	"scale": 1.05

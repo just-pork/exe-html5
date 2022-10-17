@@ -1,24 +1,6 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				18,
-				-51
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "laugh",
-			"indices": [
-				1,
-				2,
-				3,
-				4,
-				5,
-				6
-			],
-			"name": "laugh_Instance"
-		},
-		{
 			"loop": false,
 			"offsets": [
 				360,
@@ -36,7 +18,7 @@
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singDOWN-alt",
+			"anim": "laugh",
 			"indices": [],
 			"name": "laugh"
 		},
@@ -79,6 +61,10 @@
 				67
 			],
 			"loop": true,
+			"cameraOffset": [
+				0,
+				0
+			],
 			"fps": 26,
 			"anim": "idle",
 			"indices": [],

@@ -112,7 +112,7 @@
 		0,
 		350
 	],
-	"healthicon": "pico-and-bf",
+	"healthicon": "bunfriend",
 	"flip_x": true,
 	"healthbar_colors": [
 		49,
@@ -121,7 +121,7 @@
 	],
 	"camera_position": [
 		-200,
-		-210
+		0
 	],
 	"sing_duration": 4,
 	"scale": 1.2

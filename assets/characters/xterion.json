@@ -100,22 +100,22 @@
 			"name": "xterion_up"
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/xterion",
 	"position": [
-		190,
-		470
+		200,
+		450
 	],
-	"healthicon": "xterion",
+	"healthicon": "tankman",
 	"flip_x": false,
 	"healthbar_colors": [
 		2,
 		0,
-		195
+		68
 	],
 	"camera_position": [
-		-130,
-		-140
+		-230,
+		-150
 	],
 	"sing_duration": 4,
 	"scale": 2.3

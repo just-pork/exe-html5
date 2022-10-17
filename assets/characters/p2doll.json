@@ -144,7 +144,7 @@
 				-200,
 				-230
 			],
-			"anim": "idle-alt2",
+			"anim": "smile",
 			"fps": 24,
 			"name": "creepysmile",
 			"indices": [
@@ -173,7 +173,7 @@
 			],
 			"loop": true,
 			"fps": 24,
-			"anim": "idle-alt",
+			"anim": "laugh",
 			"indices": [
 				0,
 				1,
@@ -201,7 +201,7 @@
 		730,
 		60
 	],
-	"healthicon": "taildoll",
+	"healthicon": "tailsdoll_P2",
 	"flip_x": false,
 	"healthbar_colors": [
 		255,

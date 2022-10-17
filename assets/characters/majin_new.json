@@ -59,8 +59,8 @@
 	"no_antialiasing": false,
 	"image": "characters/MajinOG",
 	"position": [
-		0,
-		360
+		20,
+		300
 	],
 	"healthicon": "majin-og",
 	"flip_x": false,
@@ -70,8 +70,8 @@
 		215
 	],
 	"camera_position": [
-		-140,
-		0
+		20,
+		10
 	],
 	"sing_duration": 6,
 	"scale": 1.4
